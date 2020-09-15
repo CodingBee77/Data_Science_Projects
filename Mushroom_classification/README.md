@@ -33,8 +33,65 @@ Try to use hyperparameter tuning to check if accuracy will change.
 
 **Results and conclusions**
 
+- Decision tree classifier obtain 99% accuracy and 99% of precision for classifying poisonous and edible mushrooms
+- Metrics were proven by plotting ROC curve and learning curves 
+- Hyperparameter tunning with randomized search cv was conducted to evaluate the effect on the model performance
+It doesn’t change accuracy score only took additional time for searching parameter and make new predictions to check accuracy again
+- 2 methods  of calculating accuracy were compared: roc auc score and accuracy score. 
+Since the dataset is balanced ( there is so major class ) these 2 results did not differ
+- the most indicative features for classify if mushroom is poisonous are: gill size and gill color.
+
+
+**Quick project overview**
+
+<details>
+<summary>**Exploratory data analysis</summary>
 Due to dataset analyze we found out that around 30% of mushrooms have brown cup color,
  22% - gray and 18% - red.
+
+![](Images/Mushroom_Cap_color_quantity.png)
+
+Proportion between edible and poisonous mushrooms with brown and gray cap is
+around 50%. Yellow and red caps are more characteristic for poisonous mushrooms (quite intuitive).
  
-![Images/Mushroom_Cap_color_quantity.png]
+![](Images/Edible_poisonous_Mushroom_Cap_col.png)
+
+Almost 44% of  mushrooms have no odor, but:
+- 26%: foul odor;
+- 7%: fishy odor;
+- 7%: spicy odor;
+- 5%: almond odor;
+- 5%: anise odor;
+- 3%: pungent odor;
+- 2%: creosote odor;
+- 1%: musty odor.
+
+![](Images/Mushroom_odor_quantity.png)
+
+Almost 96 % of mushrooms with no odor are edible, 100% of mushroom with almond and anise
+odor are also edible. All mushrooms with foul, fishy, spicy, pungent, creosote or musty odor are
+poisonous.
+
+![](Images/Edible_poisonous_mushroom_odor.png)
+
+Nearly 50% of the mushrooms are the population type: several, then solitary (21,1%), scattered (15,4%)
+and at the end numerous (4,9%), abundant ( 4,7% ), clustered (4,2%).
+
+![](Images/Mushroom_population_type.png)
+
+A certain percentage of 4 mushroom population type is poisonous:
+    • 35% mushrooms in several population type
+    •  8% of solitary population type
+    • 4,5 % of scattered population type
+    • 0,6 % of clustered population type.
+    
+![](Images/Edible_poisonous_mush_pop_type.png)
+
+</details>
+    
+
+ 
+
+
+
 
