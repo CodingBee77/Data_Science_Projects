@@ -48,13 +48,13 @@ Since the dataset is balanced ( there is so major class ) these 2 results did no
 <summary>**Exploratory data analysis**</summary>
 Due to dataset analyze we found out that around 30% of mushrooms have brown cup color,
  22% - gray and 18% - red.
-
-![](Images/Mushroom_Cap_color_quantity.png)
+ 
+   ![](Images/Mushroom_Cap_color_quantity.png)
 
 Proportion between edible and poisonous mushrooms with brown and gray cap is
 around 50%. Yellow and red caps are more characteristic for poisonous mushrooms (quite intuitive).
  
-![](Images/Edible_poisonous_Mushroom_Cap_col.PNG)
+   ![](Images/Edible_poisonous_Mushroom_Cap_col.PNG)
 
 Almost 44% of  mushrooms have no odor, but:
 - 26%: foul odor;
@@ -66,18 +66,18 @@ Almost 44% of  mushrooms have no odor, but:
 - 2%: creosote odor;
 - 1%: musty odor.
 
-![](Images/Mushroom_odor_quantity.PNG)
+     ![](Images/Mushroom_odor_quantity.PNG)
 
 Almost 96 % of mushrooms with no odor are edible, 100% of mushroom with almond and anise
 odor are also edible. All mushrooms with foul, fishy, spicy, pungent, creosote or musty odor are
 poisonous.
 
-![](Images/Edible_poisonous_mushroom_odor.PNG)
+   ![](Images/Edible_poisonous_mushroom_odor.PNG)
 
 Nearly 50% of the mushrooms are the population type: several, then solitary (21,1%), scattered (15,4%)
 and at the end numerous (4,9%), abundant ( 4,7% ), clustered (4,2%).
 
-![](Images/Mushroom_population_type.PNG)
+   ![](Images/Mushroom_population_type.PNG)
 
 A certain percentage of 4 mushroom population type is poisonous:
     • 35% mushrooms in several population type
@@ -85,14 +85,14 @@ A certain percentage of 4 mushroom population type is poisonous:
     • 4,5 % of scattered population type
     • 0,6 % of clustered population type.
     
-![](Images/Edible_poisonous_mush_pop_type.PNG)
+   ![](Images/Edible_poisonous_mush_pop_type.PNG)
 
 </details>
     
 <details>
 <summary>**Correlation matrix**</summary>
 
-![](Images/Correlation_matrix.PNG)
+   ![](Images/Correlation_matrix.PNG)
 
 Attributes which have strong positive correlation with classes (coef>0,5) are:
 *gill size and color (Pearson coefficient=0.54).* 
@@ -110,16 +110,16 @@ veil color, spore print color, population, habitat.*
 Decision tree classifier was built and trained. Accuracy score was calculated on predictions made
 on a test subset. Accuracy of a model was 0.992%.  Classification report was generated.
 
-![](Images/DT_no_tunning_class_report.png)
+   ![](Images/DT_no_tunning_class_report.png)
 
 To compare results with metrics from roc auc score, those metric has been calculated
 and roc curve plotted.
 
-![](Images/DC_no_tunning_roc_curve.png)
+   ![](Images/DC_no_tunning_roc_curve.png)
 
 To check if model is not overfitting, learning curves were investigated.
 
-![](Images/DC_no_tunning_learning_curve.png)
+   ![](Images/DC_no_tunning_learning_curve.png)
 
 The same process was conducted after hyperparameters tuning.
 Accuracy score for decision tree with  tuning does not change. 
