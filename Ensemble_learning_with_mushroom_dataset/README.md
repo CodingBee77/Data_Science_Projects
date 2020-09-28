@@ -1,5 +1,4 @@
-<details>
-<summary>**Introduction**</summary>
+**Introduction**
 
 This dataset includes descriptions of hypothetical samples corresponding to 23 species of gilled
 mushrooms in the Agaricus and Lepiota Family Mushroom drawn from The Audubon Society Field
@@ -8,11 +7,8 @@ definitely poisonous, or of unknown edibility and not recommended. This latter c
 with the poisonous one. The Guide clearly states that there is no simple rule for determining the
 edibility of a mushroom. Donated to UCI ML 27 April 1987.
 
-</details>
 
-
-<details>
-<summary>**Analyzed problem**</summary>
+**Analyzed problem**
 
 We have given 23 attributes for mushrooms such as : 
 cap-shape, cap-surface, cap-color, bruises, odor, gill-attachment, gill-spacing, gill-size, gill-color,
@@ -22,30 +18,19 @@ habitat.
 *Mushrooms are labeled as poisonous or edible.*
 The task is to use those features to classify mushrooms into one of the above groups.
 
-</details>
 
-
-<details>
-<summary>**Purpose**</summary>
+**Purpose**
 
 Build mushroom classifier with the highest precision using ensemble learning methods.
 
-</details>
 
-
-<details>
-<summary>**Selected solution**</summary>
+**Selected solution**
 
 Use different classifiers and their ensembles to recognize poisonous and edible mushrooms by their attributes.
 Use different accuracy metrics and classification report to assess classifier accuracy.
 Compare training time and soft and hard voting affects model accuracy.
 
-</details>
 
+**Results and conclusions**
 
-<details>
-<summary>**Results and conclusions**</summary>
-
-
-</details>
 
