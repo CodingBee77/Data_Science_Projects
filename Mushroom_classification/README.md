@@ -16,12 +16,11 @@ stalk-shape, stalk-root, stalk-surface-above-ring, stalk-surface-below-ring, sta
 stalk-color-below-ring, veil-type, veil-color , ring-number, ring-type, spore-print-color, population,
 habitat. 
 *Mushrooms are labeled as poisonous or edible.*
-It is a challenge to use those features to classify mushrooms into one of the above groups.
-
+The task is to use those features to classify mushrooms into one of the above groups.
 
 **Purpose**
 
-Build mushroom classifier with the high precision and find the most indicative features.
+Build mushroom classifier with the highest precision and find the most indicative features.
 
 
 **Selected solution**
