@@ -22,15 +22,29 @@ The task is to use those features to classify mushrooms into one of the above gr
 **Purpose**
 
 Build mushroom classifier with the highest precision using ensemble learning methods.
+Compare training time for "soft" and "hard" voting affects model accuracy.
 
 
 **Selected solution**
 
-Use different classifiers and their ensembles to recognize poisonous and edible mushrooms by their attributes.
+Use different classifiers and their ensembles to recognize poisonous and edible mushrooms
+by their attributes.
 Use different accuracy metrics and classification report to assess classifier accuracy.
-Compare training time and soft and hard voting affects model accuracy.
-
+Examine feature importance for different algorithms.
 
 **Results and conclusions**
+
+Mushroom dataset is really clean and all classifiers reach nearly 100% accuracy. It is rare to get such
+score but possible. Dataset is clean, balanced ( around half of samples belong to each class), data was splitted
+into training and testing dataset and all features encoded.
+Logistic regression and random forest classifier have the shortest training time: for LR around 0.2 seconds
+and for RF: 0.6 seconds. Hard voting classifier was trained much quicker than "soft" version - it may be caused by 
+additional operation of averaging the probability of belonging to particular classes. But with another model,
+it can achieve higher accuracy.
+Feature importances were investigated for each classifier:
+ - 
+
+
+
 
 
