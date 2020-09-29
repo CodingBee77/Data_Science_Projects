@@ -42,9 +42,23 @@ and for RF: 0.6 seconds. Hard voting classifier was trained much quicker than "s
 additional operation of averaging the probability of belonging to particular classes. But with another model,
 it can achieve higher accuracy.
 Feature importances were investigated for each classifier:
- - 
+ - for random forest and extra trees the most important features were: odor, gill size, stalk surface above ring,
+ ring type and bruises;
 
+![](Images/Feature_imp_random_forest.PNG)
 
+![](Images/Feature_imp_extratrees.PNG)
+ 
+ - for logistic regression: spore print color, odor, gill size and stalk root;
+ 
+![](Images/Feature_imp_lr.PNG)
+
+- for support vector classifier: spore print color, odor, stalk surface above ring, population and gill size.
+
+![](Images/Feature_imp_svc.PNG)
+
+For logistic regression and support vector classifier some features play a significant
+role almost equally. For random forest and extra trees feature importance were more diverse.
 
 
 
