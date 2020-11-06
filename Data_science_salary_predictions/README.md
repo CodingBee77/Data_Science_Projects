@@ -19,7 +19,7 @@ Then data was cleaned with pandas and numpy package.
 
 <details>
 <summary>**Part 1 - Web scraping**</summary>
-- Selenium is not a good tool for web scraping. It is manly used
+- Selenium is not a good tool for web scraping. It is mainly used
 for any activity automatization on a websites. As webscraper it's a little bit
 slow, problems with finding particular element come up. There are problems with
 repeatability because of pop up windows, different element dimensions depending on
@@ -36,9 +36,11 @@ available below:
 
 <details>
 <summary>**Part 2 - Data collection**</summary>
-- In
-
-
-
+    As a part 2 of the project data were cleaned with numpy and pandas packages to 
+prepare dataset for further exploratory analysis. Employee salaries were divided
+into separate columns with specification of minimal, maximal and average salary and
+hourly wage. Some columns which didn't scraped properly was dropped. Job state and
+company names have been systematized. From job description information about
+programming skills were extracted. Cleaned dataset was saved as new csv file.
 
 </details>

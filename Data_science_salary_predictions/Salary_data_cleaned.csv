@@ -1,5 +1,5 @@
-Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Company Size,Founded,Type of ownership,Industry,Sector,Revenue,Min_salary_hourly,Max_salary_hourly,min_salary,max_salary,avg_salary,Company_name_txt,Job state,Age,python,r studio,spark,aws,matlab,hadoop
-Data Scientist- Streetsboro Ohio Office,$101K-$163K (Glassdoor est.),"The Step2 Company is the largest American manufacturer of preschool and toddler toys and one of the world’s largest rotational molders of plastics. It’s our mission to be the leading innovator of children's products that build imaginations and enrich the family's celebration of childhood.
+Job Title,Job Description,Rating,Location,Company Size,Founded,Type of ownership,Industry,Sector,Revenue,Min_salary_hourly,Max_salary_hourly,Min_salary,Max_salary,Avg_salary,Company_name_txt,Job state,Company Age,python,r studio,spark,aws,matlab,hadoop
+Data Scientist- Streetsboro Ohio Office,"The Step2 Company is the largest American manufacturer of preschool and toddler toys and one of the world’s largest rotational molders of plastics. It’s our mission to be the leading innovator of children's products that build imaginations and enrich the family's celebration of childhood.
 
 Step2 proudly employs moms, dads, grandparents, aunts, uncles and everyone in between. We offer an environment of fun and hard work. Our mission of bringing families together isn’t just for our customers. The Step2 family starts with our employees and we’re excited that you’re interested in joining our team!
 
@@ -51,9 +51,8 @@ Step2 is an Equal Opportunity Employer
 
 
 
-Step2 is an Equal Opportunity Employer",3.3,"Step2
-3.3","Streetsboro, OH",1001 - 5000 ,1991,Company - Private,Consumer Products Manufacturing,Manufacturing,$100 to $500 million (USD),50.5,81.5,101,163,132.0,Step2, OH,29,0,0,0,0,0,0
-Sr. Data Scientist - Model Governance,$101K-$163K (Glassdoor est.),"General Summary:
+Step2 is an Equal Opportunity Employer",3.3,"Streetsboro, OH",1001 - 5000 ,1991,Company - Private,Consumer Products Manufacturing,Manufacturing,$100 to $500 million (USD),50.5,81.5,101,163,132.0,Step2, OH,29,0,0,0,0,0,0
+Sr. Data Scientist - Model Governance,"General Summary:
 
 The position plays a critical role in the oversight of predictive analytics and robust modeling at Elevate. The Sr. Data Scientist, Model Governance provides effective challenge, review, oversight, guidance, and ongoing monitoring for all models used within our Account Origination (Fraud, Risk and Response) and Account Management functions.
 
@@ -80,9 +79,8 @@ Strong PowerPoint presentation skills a plus.
 Required Skills and Abilities:
 Ability to work in fast-paced environment with ever-changing demands.
 Ability to manage multiple projects at one time, possibly including overseeing others projects.
-Strong communication skills. Must be able to clearly communicate in speech and writing with Risk Management peers, Marketing, Operations, Collections, Finance, C-level Executives, CEO, and BOD.",3.6,"Elevate Credit
-3.6","Addison, TX",501 - 1000 ,2014,Company - Public,Lending,Finance,$100 to $500 million (USD),50.5,81.5,101,163,132.0,Elevate Credit, TX,6,1,0,0,0,1,0
-Senior Principal Scientist,$101K-$163K (Glassdoor est.),"Senior Principal Scientist*
+Strong communication skills. Must be able to clearly communicate in speech and writing with Risk Management peers, Marketing, Operations, Collections, Finance, C-level Executives, CEO, and BOD.",3.6,"Addison, TX",501 - 1000 ,2014,Company - Public,Lending,Finance,$100 to $500 million (USD),50.5,81.5,101,163,132.0,Elevate Credit, TX,6,1,0,0,0,1,0
+Senior Principal Scientist,"Senior Principal Scientist*
 Merrimack, NH*
 Together we can make a difference! *
 At Getinge we are dedicated and passionate about helping our customers save lives and ensure excellent care. We provide innovations for operating rooms, intensive-care units, sterilization departments and for life science companies and institutions. Our portfolio combines well-known product brands such as Maquet, Pulsion, Atrium, Lancer and Datascope – just to name a few.
@@ -140,9 +138,8 @@ Health insurance
 Life insurance
 Vision insurance
 Schedule:
-Monday to Friday",3.3,"Getinge Group
-3.3","Merrimack, NH",10000+ ,-1,Company - Public,Health Care Products Manufacturing,Manufacturing,$10+ billion (USD),50.5,81.5,101,163,132.0,Getinge Group, NH,-1,0,0,0,0,0,0
-Semantic Data Modeler and Engineer,$101K-$163K (Glassdoor est.),"Semantic Data Modeler and Engineer
+Monday to Friday",3.3,"Merrimack, NH",10000+ ,-1,Company - Public,Health Care Products Manufacturing,Manufacturing,$10+ billion (USD),50.5,81.5,101,163,132.0,Getinge Group, NH,-1,0,0,0,0,0,0
+Semantic Data Modeler and Engineer,"Semantic Data Modeler and Engineer
 
 Tucson Embedded Systems, Inc. is seeking a semantic data modeler and engineer within the real-time embedded space, preferably with experience in creating semantic data models within the defense and aerospace industry (i.e., for mission systems). This position is for work on existing and future government and industry contracts. We are seeking an individual with the following skills:
 
@@ -224,9 +221,8 @@ https://TucsonEmbedded.com
 Benefit Conditions:
 Only full-time employees eligible
 Work Remotely:
-No",2.8,"Tucson Embedded Systems, Inc.
-2.8",Alabama,51 - 200 ,1997,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD),50.5,81.5,101,163,132.0,"Tucson Embedded Systems, Inc.",Alabama,23,0,0,0,0,0,0
-Certified Lab Scientist or Certified Lab Tech,$101K-$163K (Glassdoor est.),"Prairie Ridge Health is looking for a team member to join or Lab Department in the role of Certified Lab Scientist or Certified Lab Tech. This position is PRN (as needed) and will be responsible for performing general laboratory testing in the areas of Hematology, Chemistry, Urinalysis, Transfusion Services, Coagulation, Microbiology, Serology, and Specimen processing with a high degree of accuracy and reliability...….
+No",2.8,Alabama,51 - 200 ,1997,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD),50.5,81.5,101,163,132.0,"Tucson Embedded Systems, Inc.",Alabama,23,0,0,0,0,0,0
+Certified Lab Scientist or Certified Lab Tech,"Prairie Ridge Health is looking for a team member to join or Lab Department in the role of Certified Lab Scientist or Certified Lab Tech. This position is PRN (as needed) and will be responsible for performing general laboratory testing in the areas of Hematology, Chemistry, Urinalysis, Transfusion Services, Coagulation, Microbiology, Serology, and Specimen processing with a high degree of accuracy and reliability...….
 
 POSITION SUMMARY
 Lab Scientist
@@ -264,9 +260,8 @@ Shift: As Needed
 
 Powered by JazzHR
 
-Ly3sHi576B",2.0,"Prairie Ridge Health
-2.0","Columbus, WI",51 - 200 ,-1,Hospital,-1,-1,Less than $1 million (USD),50.5,81.5,101,163,132.0,Prairie Ridge Health, WI,-1,0,0,0,0,0,0
-Digital Pathology Scientist,$101K-$163K (Glassdoor est.),"Digital Pathology Scientist *
+Ly3sHi576B",2.0,"Columbus, WI",51 - 200 ,-1,Hospital,-1,-1,Less than $1 million (USD),50.5,81.5,101,163,132.0,Prairie Ridge Health, WI,-1,0,0,0,0,0,0
+Digital Pathology Scientist,"Digital Pathology Scientist *
 Description*
 Mosaic Laboratories is looking for a full-time Digital Pathology Scientist. Mosaic Laboratories is a leading provider of pre-clinical and clinical trial laboratory services to pharmaceutical and biotechnology companies. This position will have significant interaction with Mosaic’s senior leadership and plays a key role driving financial reporting.
 Job Responsibilities*
@@ -353,9 +348,8 @@ English (Required)
 Work authorization:
 United States (Required)
 Work Remotely:
-No",3.5,"Mosaic Laboratories
-3.5","Lake Forest, CA",1 - 50 ,-1,Company - Private,-1,-1,$1 to $5 million (USD),50.5,81.5,101,163,132.0,Mosaic Laboratories, CA,-1,0,0,0,0,0,0
-Research Scientist - Lactic Solutions,$101K-$163K (Glassdoor est.),"The *Research Scientist - Lactic Solutions *will be part of a technical team involved in genetic engineering of lactic acid bacteria (LAB) for the production of fuels. This position will report directly to the *Senior Director of Lactic Solutions R&D at Mascoma*. The key activities for this position include metabolic engineering, heterologous protein expression, classical genetics, directed evolution, and development of strain screens and selections for specific applications of LAB. Specific responsibilities include:
+No",3.5,"Lake Forest, CA",1 - 50 ,-1,Company - Private,-1,-1,$1 to $5 million (USD),50.5,81.5,101,163,132.0,Mosaic Laboratories, CA,-1,0,0,0,0,0,0
+Research Scientist - Lactic Solutions,"The *Research Scientist - Lactic Solutions *will be part of a technical team involved in genetic engineering of lactic acid bacteria (LAB) for the production of fuels. This position will report directly to the *Senior Director of Lactic Solutions R&D at Mascoma*. The key activities for this position include metabolic engineering, heterologous protein expression, classical genetics, directed evolution, and development of strain screens and selections for specific applications of LAB. Specific responsibilities include:
 
 · Using advanced molecular biology techniques to engineer lactic acid bacteria (LAB), analyze associated genotypes and phenotypes, and provide documentation of the process and results
 
@@ -434,9 +428,8 @@ Lallemand.com
 Company's Facebook page:
 https://www.facebook.com/lallemandinc
 Work Remotely:
-No",3.4,"Lallemand
-3.4","Lebanon, NH",1001 - 5000 ,1895,Company - Private,Food & Beverage Manufacturing,Manufacturing,Unknown / Non-Applicable,50.5,81.5,101,163,132.0,Lallemand, NH,125,0,0,0,0,0,0
-Research Scientist - Plant Transformation,$101K-$163K (Glassdoor est.),"Living Carbon is a pre-launch public benefit corporation with a mission to fight climate change by enhancing CO2 capture and storage in trees. We believe that gigaton scale CO2 drawdown will only happen if solutions are both environmentally beneficial and profitable to landowners. We’re working with some of the largest timber companies in the US and well-known reforestation projects to develop a proof of concept. We’re backed by some of the most prominent investors in Silicon Valley including, YCombinator, Sam Altman, and Chris Sacca of LowerCarbon Capital.
+No",3.4,"Lebanon, NH",1001 - 5000 ,1895,Company - Private,Food & Beverage Manufacturing,Manufacturing,Unknown / Non-Applicable,50.5,81.5,101,163,132.0,Lallemand, NH,125,0,0,0,0,0,0
+Research Scientist - Plant Transformation,"Living Carbon is a pre-launch public benefit corporation with a mission to fight climate change by enhancing CO2 capture and storage in trees. We believe that gigaton scale CO2 drawdown will only happen if solutions are both environmentally beneficial and profitable to landowners. We’re working with some of the largest timber companies in the US and well-known reforestation projects to develop a proof of concept. We’re backed by some of the most prominent investors in Silicon Valley including, YCombinator, Sam Altman, and Chris Sacca of LowerCarbon Capital.
 
 If you believe that climate change is the defining global emergency of the century and want to join an ambitious project that’s working on a biological solution, we’d love to hear from you.
 Your role: *
@@ -486,9 +479,8 @@ Monday to Friday
 Work authorization:
 United States (Required)
 Work Remotely:
-No",3.9,"Living Carbon
-3.9","San Francisco, CA",1 - 50 ,-1,Other Organization,-1,-1,Less than $1 million (USD),50.5,81.5,101,163,132.0,Living Carbon, CA,-1,0,0,0,0,0,0
-R&D Scientist,$101K-$163K (Glassdoor est.),"Our Research and Development department is on the forefront of product development and innovation. It is easy to be dedicated when you’re a part of something much bigger than yourself. We’ve got an insatiable appetite for making a difference. The ideal R&D Dairy and/or Dairy Alternative Scientist candidate will have an integral role in leading the product development of our next wave product innovations, while also lending technical support to our growing base business. We are looking for a candidate with a strong food science foundation, and a demonstrated expertise in product innovation, to help Chobani advance its’ mission of making healthy and delicious plant-based foods.
+No",3.9,"San Francisco, CA",1 - 50 ,-1,Other Organization,-1,-1,Less than $1 million (USD),50.5,81.5,101,163,132.0,Living Carbon, CA,-1,0,0,0,0,0,0
+R&D Scientist,"Our Research and Development department is on the forefront of product development and innovation. It is easy to be dedicated when you’re a part of something much bigger than yourself. We’ve got an insatiable appetite for making a difference. The ideal R&D Dairy and/or Dairy Alternative Scientist candidate will have an integral role in leading the product development of our next wave product innovations, while also lending technical support to our growing base business. We are looking for a candidate with a strong food science foundation, and a demonstrated expertise in product innovation, to help Chobani advance its’ mission of making healthy and delicious plant-based foods.
 
 The responsibilities of this position include:
 Execute research and development plans and strategies for product development in support of company objectives
@@ -519,9 +511,8 @@ Our mission since day one has been to provide better food to more people. And no
 
 Our food philosophy of crafting quality products with simple ingredients is what sets Chobani apart. Our belief that business done right has the ability to change lives and strengthen communities is what sets our company apart. From the way we source our ingredients to how we treat our employees, Chobani strives to make universal wellness happen sooner with everything we do. Certified as a Great Place to Work®, our culture is built on shared passion, dedication, and a commitment to doing what is right. Together, the Chobani family has created something unlike what any company has done before. The possibilities are endless.
 
-Chobani is an equal opportunity employer. Chobani will not discriminate against any applicant for employment on any basis including, but not limited to: race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, military and/or veteran status, marital status, predisposing genetic characteristics and genetic information, or any other classification protected by federal, state and local laws.",4.3,"Chobani
-4.3","Twin Falls, ID",1001 - 5000 ,2005,Company - Private,Food & Beverage Manufacturing,Manufacturing,$1 to $2 billion (USD),50.5,81.5,101,163,132.0,Chobani, ID,15,0,0,0,1,0,0
-HCM Data Analyst,$101K-$163K (Glassdoor est.),"Any qualified individual with a disability who is having difficulty in completing an application because of incompatible technology or other disability-related application issues may contact us at the following phone number for assistance: 251-445-1932.
+Chobani is an equal opportunity employer. Chobani will not discriminate against any applicant for employment on any basis including, but not limited to: race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, military and/or veteran status, marital status, predisposing genetic characteristics and genetic information, or any other classification protected by federal, state and local laws.",4.3,"Twin Falls, ID",1001 - 5000 ,2005,Company - Private,Food & Beverage Manufacturing,Manufacturing,$1 to $2 billion (USD),50.5,81.5,101,163,132.0,Chobani, ID,15,0,0,0,1,0,0
+HCM Data Analyst,"Any qualified individual with a disability who is having difficulty in completing an application because of incompatible technology or other disability-related application issues may contact us at the following phone number for assistance: 251-445-1932.
 
 Austal shall abide by the requirements of 41 CFR §§ 60-1.4(a), 60-300.5(a) and 60-741.5(a). These regulations prohibit discrimination against qualified individuals based on their status as protected veterans or individuals with disabilities, and prohibit discrimination against all individuals based on their race, color, religion, sex, sexual orientation, gender identity, or national origin. Moreover, these regulations require that covered prime contractors and subcontractors take affirmative action to employ and advance in employment individuals without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status or disability. Austal’s commitment to equal employment opportunity applies at all levels of employment, in all job titles, including the executive level, and to all employment actions, including but not limited to decisions concerning recruitment, hiring, training, and promotion.
 
@@ -582,9 +573,8 @@ Able to provide proof of US Person status (permanent resident or citizen)
 No felony convictions of theft/deception or violent crimes within seven years from disposition date
 No felony convictions of drug crimes within three years from disposition date
 Willing to submit to a drug screen
-Willing to submit to a background check",3.2,"Austal USA
-3.2","Mobile, AL",1001 - 5000 ,1988,Company - Public,Industrial Manufacturing,Manufacturing,$1 to $2 billion (USD),50.5,81.5,101,163,132.0,Austal USA, AL,32,0,0,0,0,0,0
-Manufacturing Scientist,$101K-$163K (Glassdoor est.),"Biomerica Corporation focusing on the research, development and manufacturing of immunoassay test products is looking to identify and hire a Manufacturing Scientist to lead Contract manufacturing project and production and process improvement . As a key member of the Manufacturing Team, the Manufacturing Scientist will report to Director of Manufacturing and be responsible for, but not limited to the following
+Willing to submit to a background check",3.2,"Mobile, AL",1001 - 5000 ,1988,Company - Public,Industrial Manufacturing,Manufacturing,$1 to $2 billion (USD),50.5,81.5,101,163,132.0,Austal USA, AL,32,0,0,0,0,0,0
+Manufacturing Scientist,"Biomerica Corporation focusing on the research, development and manufacturing of immunoassay test products is looking to identify and hire a Manufacturing Scientist to lead Contract manufacturing project and production and process improvement . As a key member of the Manufacturing Team, the Manufacturing Scientist will report to Director of Manufacturing and be responsible for, but not limited to the following
 Carry out production tasks in support of manufacturing goals and objectives
 Lead and carry out contract manufacturing project.
 Purify recombinant proteins using column chromatography system.
@@ -605,9 +595,8 @@ A self-motivated individual with prior in experience and hands on skills in the 
 Job Type: Full-time
 
 Experience:
-relevant: 2 years (Preferred)",2.5,"Biomerica
-2.5","Irvine, CA",1 - 50 ,-1,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$5 to $10 million (USD),50.5,81.5,101,163,132.0,Biomerica, CA,-1,0,0,0,0,0,0
-Fungal Scientist,$101K-$163K (Glassdoor est.),"Job Description/Primary Duties and Responsibilities: *
+relevant: 2 years (Preferred)",2.5,"Irvine, CA",1 - 50 ,-1,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$5 to $10 million (USD),50.5,81.5,101,163,132.0,Biomerica, CA,-1,0,0,0,0,0,0
+Fungal Scientist,"Job Description/Primary Duties and Responsibilities: *
 Biotechnical Scientist to provide scientific, engineering, and analysis in Biotechnology. This area includes experimental and theoretical pursuits mainly focused in microbiology, biochemistry, molecular biology and biological materials. Support services shall include the following:
 Cloning experiments including: nucleic acid handling, purification, and quantification. Further enzymatic assays such as Polymerase Chain Reaction (PCR), restriction digestion, and ligation reactions for synthetic biology projects
 Growth experiments with anaerobic and aerobic microorganisms in a bioreactor or standard incubator requiring sterile technique, preparation of growth media, plates and freezer stocks and perform growth curves
@@ -679,9 +668,8 @@ Team-oriented -- cooperative and collaborative
 Benefit Conditions:
 Only full-time employees eligible
 Work Remotely:
-No",2.5,"General Technical Services, LLC and Fibertek, Inc.
-2.5","Aberdeen Proving Ground, MD",1 - 50 ,1986,Company - Private,Consulting,Business Services,$10 to $25 million (USD),50.5,81.5,101,163,132.0,"General Technical Services, LLC and Fibertek, Inc.", MD,34,0,0,0,0,0,0
-"Data Scientist, Medical Diagnostics",$101K-$163K (Glassdoor est.),"_*The Company*_
+No",2.5,"Aberdeen Proving Ground, MD",1 - 50 ,1986,Company - Private,Consulting,Business Services,$10 to $25 million (USD),50.5,81.5,101,163,132.0,"General Technical Services, LLC and Fibertek, Inc.", MD,34,0,0,0,0,0,0
+"Data Scientist, Medical Diagnostics","_*The Company*_
 The world is facing a medical crisis, bacteria are increasingly evolving resistance to even our strongest antibiotics. The problem is already very real and immediate; for example, bloodstream infection leading to sepsis is now responsible for more than half of all deaths in hospitals and is the most expensive condition treated in hospitals. Sepsis mortality rate increases >6% every hour without effective antibiotic treatment. Yet, despite the life and death urgency, and healthcare cost impacts, current methodologies require 3 days to determine the correct antibiotic.
 
 Specific Diagnostics has developed a breakthrough solution to rapidly determine the effective antibiotic treatment for bloodstream and other acute infections. Used for bloodstream infection Specific’s solution provides results 2 days sooner than existing methods, saving patients suffering from drug-resistant infection.
@@ -719,9 +707,8 @@ relavent: 2 years (Required)
 Work authorization:
 United States (Required)
 Work Remotely:
-No",1.0,"Specific Diagnostics
-1.0","Mountain View, CA",1 - 50 ,-1,Company - Private,-1,-1,Less than $1 million (USD),50.5,81.5,101,163,132.0,Specific Diagnostics, CA,-1,1,0,0,0,0,0
-Data Analyst,$101K-$163K (Glassdoor est.),"PerBlue is looking for an aspiring Data Analyst to join our team. We’re a quickly growing independent studio whose free-to-play midcore mobile games have been played by millions people around the world, including Disney Heroes: Battle Mode. Our cross-functional and collaborative team has experience across the videogame industry. Headquartered in Madison, Wisconsin, we are also based remotely around the United States for an unmatched quality of life and work.
+No",1.0,"Mountain View, CA",1 - 50 ,-1,Company - Private,-1,-1,Less than $1 million (USD),50.5,81.5,101,163,132.0,Specific Diagnostics, CA,-1,1,0,0,0,0,0
+Data Analyst,"PerBlue is looking for an aspiring Data Analyst to join our team. We’re a quickly growing independent studio whose free-to-play midcore mobile games have been played by millions people around the world, including Disney Heroes: Battle Mode. Our cross-functional and collaborative team has experience across the videogame industry. Headquartered in Madison, Wisconsin, we are also based remotely around the United States for an unmatched quality of life and work.
 
 We’re looking for a thoughtful data wizard who can help us dig through mountains of video game data, analyze it, find actionable insights, and present them to everyone else on the team. We appreciate someone who can challenge us to think creatively in new ways about how to understand our data, while still having a commitment to delivering results.
 
@@ -764,9 +751,8 @@ We offer 6+ weeks of paid vacation and health, dental, and vision insurance as w
 
 We’ve been named a “Top Developer” by Google and given several “Best Place to Work” awards by a variety of publications.
 
-No agencies, please. We regret that we cannot consider visa sponsorship or candidates based outside of the United States for this position at this time.",4.3,"PerBlue
-4.3","Madison, WI",51 - 200 ,2010,Company - Private,Video Games,Media,Unknown / Non-Applicable,50.5,81.5,101,163,132.0,PerBlue, WI,10,1,0,0,0,0,0
-Cell Line Development Scientist,$101K-$163K (Glassdoor est.),"Job Title: Scientist, Cell Line Development*
+No agencies, please. We regret that we cannot consider visa sponsorship or candidates based outside of the United States for this position at this time.",4.3,"Madison, WI",51 - 200 ,2010,Company - Private,Video Games,Media,Unknown / Non-Applicable,50.5,81.5,101,163,132.0,PerBlue, WI,10,1,0,0,0,0,0
+Cell Line Development Scientist,"Job Title: Scientist, Cell Line Development*
 Work Location: Chesterfield - MO*
 Duration: 12 Months*
 Job Description:
@@ -794,9 +780,8 @@ Ph.D. entry-level or Masters with 5+ yrs experience
 Job Type: Contract
 
 Schedule:
-Monday to Friday",3.2,"Integrated Resources, Inc
-3.2","Chesterfield, MO",201 - 500 ,1996,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million (USD),50.5,81.5,101,163,132.0,"Integrated Resources, Inc", MO,24,0,0,0,0,0,0
-Scientist,$101K-$163K (Glassdoor est.),"Why Join Revenue Analytics?
+Monday to Friday",3.2,"Chesterfield, MO",201 - 500 ,1996,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million (USD),50.5,81.5,101,163,132.0,"Integrated Resources, Inc", MO,24,0,0,0,0,0,0
+Scientist,"Why Join Revenue Analytics?
 Because you have exceptional talents and you want to be part of a fun and highly collaborative team that creates analytical products and solutions to eliminate the unknowns in business problems for world-renowned companies.
 
 What's In It For You?
@@ -827,9 +812,8 @@ Must also have experience solving business problems using statistics, machine le
 Who We Are
 A pioneer of Revenue Management, Revenue Analytics is an enterprise SaaS company that partners with hospitality, media, and passenger rail companies to solve their most complex pricing challenges. By leveraging powerful analytics and deep strategic experience, Revenue Analytics’ next-generation software delivers intuitive answers to help companies perfect their pricing, reclaim missed revenue, and take back their time. To learn more about how Revenue Analytics is recreating Revenue Management, visit revenueanalytics.com or follow us on Twitter and LinkedIn.
 
-Revenue Analytics embraces diversity and is an equal opportunity. We are committed to building a Team that represents a variety of backgrounds, perspectives, and skills. The more inclusive we are, the better our work will be.",4.1,"Revenue Analytics
-4.1","Atlanta, GA",51 - 200 ,2005,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),50.5,81.5,101,163,132.0,Revenue Analytics, GA,15,1,0,0,0,0,0
-Scientific Data Analyst,$101K-$163K (Glassdoor est.),"Scientific Data Analyst
+Revenue Analytics embraces diversity and is an equal opportunity. We are committed to building a Team that represents a variety of backgrounds, perspectives, and skills. The more inclusive we are, the better our work will be.",4.1,"Atlanta, GA",51 - 200 ,2005,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),50.5,81.5,101,163,132.0,Revenue Analytics, GA,15,1,0,0,0,0,0
+Scientific Data Analyst,"Scientific Data Analyst
 
 Melbourne, FL
 
@@ -941,9 +925,8 @@ Key customers include the Department of Homeland Security, the Department of Def
 
 Strength in Diversity
 
-ENSCO, Inc. and its wholly owned U.S. subsidiaries are equal opportunity/affirmative action employers, committed to diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender identity, sexual orientation, national origin, disability, or protected veteran status, or any other protected characteristic under state or local law.",3.7,"ENSCO, Inc.
-3.7","Melbourne, FL",501 - 1000 ,1969,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),50.5,81.5,101,163,132.0,"ENSCO, Inc.", FL,51,1,0,0,0,1,0
-Process Development Scientist 29981- Validation & Investigation,$101K-$163K (Glassdoor est.),"Education: *
+ENSCO, Inc. and its wholly owned U.S. subsidiaries are equal opportunity/affirmative action employers, committed to diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender identity, sexual orientation, national origin, disability, or protected veteran status, or any other protected characteristic under state or local law.",3.7,"Melbourne, FL",501 - 1000 ,1969,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),50.5,81.5,101,163,132.0,"ENSCO, Inc.", FL,51,1,0,0,0,1,0
+Process Development Scientist 29981- Validation & Investigation,"Education: *
 *Doctorate degree or Master’s degree and 3 years of directly related experience or Bachelor’s degree and 5 years of directly related experience or Associate’s degree and 10 years of directly related experience.*
 Preferred Qualifications: *
 *This position is to work in the PD Drug Product Formulation Team.*
@@ -975,9 +958,8 @@ Ability to be flexible and manage change. Computer literacy (Windows environment
 Skills requiring the application of scientific theory. Creative skills in the design and performance of scientific experiments and interpretation of results. Strong knowledge of cGMP’s. Fully bilingual (English/Spanish).
 Job Type: Full-time
 
-Salary: $0.00 per hour",3.7,"CIS International LLC
-3.7","Juncos, PR",Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),50.5,81.5,101,163,132.0,CIS International LLC, PR,-1,0,0,0,0,0,0
-Senior Genomic Data Scientist,$101K-$163K (Glassdoor est.),"GeneDx is seeking a Senior Genomic Data Scientist
+Salary: $0.00 per hour",3.7,"Juncos, PR",Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),50.5,81.5,101,163,132.0,CIS International LLC, PR,-1,0,0,0,0,0,0
+Senior Genomic Data Scientist,"GeneDx is seeking a Senior Genomic Data Scientist
 
 GeneDx is a rapidly-growing, diverse clinical laboratory in Gaithersburg, MD that provides molecular diagnosis for genetic disorders. GeneDx is recruiting for a full-time Senior Genomic Data Scientist. This scientist will work as part of a team to develop techniques and software for genomic and phenomic data analysis. The successful candidate must be self-motivated and able to work both independently and as part of a small team.
 
@@ -1012,9 +994,8 @@ Employee Discounts
 Regular performance appraisals
 Many promotions from within
 Business casual dress code
-Telecommuting options available",2.8,"GeneDx
-2.8","Gaithersburg, MD",201 - 500 ,-1,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10 to $25 million (USD),50.5,81.5,101,163,132.0,GeneDx, MD,-1,1,0,0,1,0,0
-Data Scientist,$101K-$163K (Glassdoor est.),"Description
+Telecommuting options available",2.8,"Gaithersburg, MD",201 - 500 ,-1,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10 to $25 million (USD),50.5,81.5,101,163,132.0,GeneDx, MD,-1,1,0,0,1,0,0
+Data Scientist,"Description
 
 Position at Homes.com
 
@@ -1043,9 +1024,8 @@ Homes.com offers today's demanding home buyers, renters and those somewhere in b
 About DE
 
 Dominion Enterprises (DE) is a leading digital marketing and software services company offering client solutions across multiple business verticals. Our customers rely on our B2B cloud SaaS solutions to establish their online and mobile brands, generate leads, and manage customer relationships through our Homes.com, Dominion Dealer Solutions, Dominion Business Solutions / DX1, Travel Media and Franchise and Business Opportunity divisions. Our B2C web and mobile applications include Homes.com, HotelCoupons.com, FranchiseOpportunities.com, FranchiseGator.com, Franchise.com, and BusinessBroker.net.
-About 2,000 employees reside and work in our Norfolk, VA home office and in offices across the U.S. Our employees will tell you about our collaborative, innovative, team-oriented work environment, excellent career enrichment opportunities, community service opportunities, competitive earnings, and a comprehensive benefits package that includes a generous 401(k). DE is an equal opportunity employer and supports a diverse workforce. DE is a drug-testing employer.",4.1,"Homes.com
-4.1","Norfolk, VA",201 - 500 ,1998,Company - Private,Real Estate,Real Estate,$50 to $100 million (USD),50.5,81.5,101,163,132.0,Homes.com, VA,22,1,0,0,0,0,0
-Data Analyst,$101K-$163K (Glassdoor est.),"Breckenridge Grand Vacations (BGV) is seeking qualified analysts who will help grow our highly cross-functional analytics department. The Data Analyst is responsible for quantitative& qualitative analysis, reporting, and data mining across all of BGV’s finance, marketing, operations, and sales divisions. At its highest level, this position identifies the business’ analytical needs, collaborates with the analytics team& business intelligence, develops thoughtful analyses, and effectively communicates findings and recommendations to key decision makers including executive leadership. BGV Analysts are highly detail oriented, proactive self-starters, team players, capable of multi-tasking, and can analyze large amounts of data with creativity and innovation in mind. Please visit www.BGVjobs.com to apply!
+About 2,000 employees reside and work in our Norfolk, VA home office and in offices across the U.S. Our employees will tell you about our collaborative, innovative, team-oriented work environment, excellent career enrichment opportunities, community service opportunities, competitive earnings, and a comprehensive benefits package that includes a generous 401(k). DE is an equal opportunity employer and supports a diverse workforce. DE is a drug-testing employer.",4.1,"Norfolk, VA",201 - 500 ,1998,Company - Private,Real Estate,Real Estate,$50 to $100 million (USD),50.5,81.5,101,163,132.0,Homes.com, VA,22,1,0,0,0,0,0
+Data Analyst,"Breckenridge Grand Vacations (BGV) is seeking qualified analysts who will help grow our highly cross-functional analytics department. The Data Analyst is responsible for quantitative& qualitative analysis, reporting, and data mining across all of BGV’s finance, marketing, operations, and sales divisions. At its highest level, this position identifies the business’ analytical needs, collaborates with the analytics team& business intelligence, develops thoughtful analyses, and effectively communicates findings and recommendations to key decision makers including executive leadership. BGV Analysts are highly detail oriented, proactive self-starters, team players, capable of multi-tasking, and can analyze large amounts of data with creativity and innovation in mind. Please visit www.BGVjobs.com to apply!
 
 Data Analyst Essential Duties and Responsibilities(including but not limited to):
 Understand and facilitate the integration of various business processes, people, software, data, and relevant technology to identify, configure, and communicate meaningful information that supports and drives decision making across all divisions of the company.
@@ -1086,9 +1066,8 @@ About Breckenridge Grand Vacations:
 
 BGV was formed in 1984, serving as the developer, owner, and operator of four Breckenridge Resorts: Gold Point Resort, Grand Timber Lodge, the Grand Lodge on Peak 7 and our newest resort, the Grand Colorado on Peak 8. Winner of the ACE Philanthropic Award in 2016 from the American Resort Development Association (ARDA), Denver Post’s 2018 Top Large Workplace: 1st Place, and winner of the ACE Project of Excellence (Grand Colorado on Peak 8) in 2020 from the American Resort Development Association (ARDA) as the best resort in the world for the year. Breckenridge Grand Vacations is widely recognized as one of the most successful independent developers in the industry.
 
-Here at Breckenridge Grand Vacations, we pride ourselves on always creating Grand vacations for families and friends alike. Our purpose statement sets the stage for impacting the lives not only of our owners and guests, but our employees and our community:The Soul of BGV is creating smiles!",4.3,"Breckenridge Grand Vacations
-4.3","Breckenridge, CO",501 - 1000 ,1984,Company - Private,"Hotels, Motels, & Resorts",Travel & Tourism,$10 to $25 million (USD),50.5,81.5,101,163,132.0,Breckenridge Grand Vacations, CO,36,1,0,0,0,1,0
-Sr. DATA SCIENTIST,$101K-$163K (Glassdoor est.),"Title: Sr. Data Scientist
+Here at Breckenridge Grand Vacations, we pride ourselves on always creating Grand vacations for families and friends alike. Our purpose statement sets the stage for impacting the lives not only of our owners and guests, but our employees and our community:The Soul of BGV is creating smiles!",4.3,"Breckenridge, CO",501 - 1000 ,1984,Company - Private,"Hotels, Motels, & Resorts",Travel & Tourism,$10 to $25 million (USD),50.5,81.5,101,163,132.0,Breckenridge Grand Vacations, CO,36,1,0,0,0,1,0
+Sr. DATA SCIENTIST,"Title: Sr. Data Scientist
 
 Company: Samsung Research America (SRA)
 
@@ -1123,9 +1102,8 @@ Preferred Qualifications:
 BS, MS or PhD in Computer Science, Engineering or a related technical field
 Strong communication and inter-personal skills
 Experience with leading large-scale multi-engineer projects
-Samsung is an EEO/Veterans/Disabled/LGBT employer. We welcome and encourage diversity as we strive to create an inclusive workplace.",3.7,"Samsung Research America
-3.7","Mountain View, CA",1001 - 5000 ,1988,Subsidiary or Business Segment,Computer Hardware & Software,Information Technology,$50 to $100 million (USD),50.5,81.5,101,163,132.0,Samsung Research America, CA,32,1,0,1,1,0,0
-Supply Chain Solution - Data Scientist,$101K-$163K (Glassdoor est.),"*CURRENT EMPLOYEES :
+Samsung is an EEO/Veterans/Disabled/LGBT employer. We welcome and encourage diversity as we strive to create an inclusive workplace.",3.7,"Mountain View, CA",1001 - 5000 ,1988,Subsidiary or Business Segment,Computer Hardware & Software,Information Technology,$50 to $100 million (USD),50.5,81.5,101,163,132.0,Samsung Research America, CA,32,1,0,1,1,0,0
+Supply Chain Solution - Data Scientist,"*CURRENT EMPLOYEES :
 Please click here to be redirected to the internal career site.
 Job Description
 
@@ -1190,9 +1168,8 @@ If you have any queries about the processing of your data, please contact:
 
 Global Data Privacy Officer:
 
-Email Address: chiefprivacyofficer@flex.com",3.8,"Flex
-3.8","Austin, TX",10000+ ,1969,Company - Public,Electrical & Electronic Manufacturing,Manufacturing,$10+ billion (USD),50.5,81.5,101,163,132.0,Flex, TX,51,1,0,0,1,0,1
-Population Health Data Analyst,$101K-$163K (Glassdoor est.),"Job Summary
+Email Address: chiefprivacyofficer@flex.com",3.8,"Austin, TX",10000+ ,1969,Company - Public,Electrical & Electronic Manufacturing,Manufacturing,$10+ billion (USD),50.5,81.5,101,163,132.0,Flex, TX,51,1,0,0,1,0,1
+Population Health Data Analyst,"Job Summary
 
 The Healthcare Intelligence Analyst employs advanced analytics to gain critical insights into member health drivers, product/program concepts and value propositions, operational effectiveness and efficiencies, member specific health gaps and needs. This position is responsible for obtaining data from various sources, understanding relevant differences between each data source and creating database structures and reports for analysis and possible production reporting. The Healthcare Intelligence Analyst provides analytics to support Blue Cross Blue Shield of North Dakota’s (BCBSND) initiatives around population health management, health care cost transformation and value-based programs.
 
@@ -1253,9 +1230,8 @@ Equal Opportunity Employer of Minorities, Females, Protected Veterans and Indivi
 
 For questions, please emailcareers@bcbsnd.com
 
-This job posting will be closed 9/28/2020 at 8:00AM CST. No further applications will be considered.",2.9,"Blue Cross Blue Shield of North Dakota
-2.9","Fargo, ND",501 - 1000 ,1940,Company - Private,Insurance Carriers,Insurance,Less than $1 million (USD),50.5,81.5,101,163,132.0,Blue Cross Blue Shield of North Dakota, ND,80,0,0,0,0,0,0
-Scientist,$101K-$163K (Glassdoor est.),"ArsenalBio’s mission is to develop efficacious and safe cellular therapies for patients with chronic diseases, initially cancer. Our products are being designed to herald the transition of adoptive cell therapy from a hospital based treatment to outpatient therapy, like most other cancer treatments. Our people are our greatest asset, they bring scientific talents in molecular biology, immunology, pharmacology, protein chemistry, computational biology, automation, genome engineering, software and other fields to make the future happen now.
+This job posting will be closed 9/28/2020 at 8:00AM CST. No further applications will be considered.",2.9,"Fargo, ND",501 - 1000 ,1940,Company - Private,Insurance Carriers,Insurance,Less than $1 million (USD),50.5,81.5,101,163,132.0,Blue Cross Blue Shield of North Dakota, ND,80,0,0,0,0,0,0
+Scientist,"ArsenalBio’s mission is to develop efficacious and safe cellular therapies for patients with chronic diseases, initially cancer. Our products are being designed to herald the transition of adoptive cell therapy from a hospital based treatment to outpatient therapy, like most other cancer treatments. Our people are our greatest asset, they bring scientific talents in molecular biology, immunology, pharmacology, protein chemistry, computational biology, automation, genome engineering, software and other fields to make the future happen now.
 
 We are seeking an outstanding Scientist to lead research efforts in areas of immunology that are key to understanding cancer immunity, including T cell and NK cell biology, as well as components of the tumor microenvironment. Strongest consideration will be given to candidates with demonstrated expertise in molecular or synthetic immunology and whose research interests are relevant to the problem of T cell development, mechanisms of immunosuppression, and next generation adoptive cell therapies. The successful candidate is expected to effectively lead cross-functional teams
 What You Will Do:
@@ -1274,9 +1250,8 @@ Ability to manage an independent research program and to lead a cross-functional
 Outstanding written and oral communication skills and the ability to organize and communicate complex data sets in a clear and concise manner to key stakeholders from diverse backgrounds are essential
 We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status
 
-To all recruitment agencies: ArsenalBio does not accept agency resumes. Please do not forward resumes to our jobs alias, or Arsenalbio employees. ArsenalBio is not responsible for any fees related to unsolicited resumes.",5.0,"Arsenal Biosciences
-5.0","South San Francisco, CA",51 - 200 ,2019,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,50.5,81.5,101,163,132.0,Arsenal Biosciences, CA,1,0,0,0,0,0,0
-"Data Scientist, Health Economics & Advanced Analytics",$101K-$163K (Glassdoor est.),"Overview
+To all recruitment agencies: ArsenalBio does not accept agency resumes. Please do not forward resumes to our jobs alias, or Arsenalbio employees. ArsenalBio is not responsible for any fees related to unsolicited resumes.",5.0,"South San Francisco, CA",51 - 200 ,2019,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,50.5,81.5,101,163,132.0,Arsenal Biosciences, CA,1,0,0,0,0,0,0
+"Data Scientist, Health Economics & Advanced Analytics","Overview
 
 
 Avalere Health is seeking a Data Scientist to join our Health Economics & Advanced Analytics (HEAA) Practice. The HEAA practice works with life sciences companies and other healthcare sectors to quantify and communicate the real-world value of healthcare interventions and to align our clients’ business strategies with the evidentiary demands of an increasingly value-driven marketplace. We are driven by deep subject matter expertise, differentiated and proprietary real-world data assets, and an emphasis on sound business strategy coupled with rigorous research and advanced analytic capabilities. The data scientist will serve at the Research Scientist II level and lead and participate in the conceptualization, execution, and delivery of analyses in health economics, comparative effectiveness, performance measure development and testing, outcomes research, and epidemiology.
@@ -1312,9 +1287,8 @@ Excellent writing, project management, communication, and presentation skills
 Ability to independently manage multiple work streams with limited supervision
 Demonstrated problem solving, analytical reasoning, and decision-making skills and strong commitment to meeting goals and deadlines
 Excellent teamwork skills and ability to work in a fast-paced, multi-disciplinary environment
-Self-motivated with a positive, flexible attitude",3.2,"Avalere Health
-3.2","Washington, DC",201 - 500 ,2000,Company - Public,Consulting,Business Services,Less than $1 million (USD),50.5,81.5,101,163,132.0,Avalere Health, DC,20,1,0,0,0,0,0
-Senior Research Statistician- Data Scientist,$101K-$163K (Glassdoor est.),"Acuity is seeking a Senior Research Statistician- Data Scientist to use statistical knowledge and research skills to solve business problems. The Research Statistician will develop, implement, and interpret statistical models with a strong emphasis on data mining and statistical/predictive modeling. Provides work direction.
+Self-motivated with a positive, flexible attitude",3.2,"Washington, DC",201 - 500 ,2000,Company - Public,Consulting,Business Services,Less than $1 million (USD),50.5,81.5,101,163,132.0,Avalere Health, DC,20,1,0,0,0,0,0
+Senior Research Statistician- Data Scientist,"Acuity is seeking a Senior Research Statistician- Data Scientist to use statistical knowledge and research skills to solve business problems. The Research Statistician will develop, implement, and interpret statistical models with a strong emphasis on data mining and statistical/predictive modeling. Provides work direction.
 ESSENTIAL FUNCTIONS:
 Identifies and acquires additional data sources, both internal and external, that can be used to enhance analyses.
 Lead the development of analytical models to drive superior business outcomes.
@@ -1336,9 +1310,8 @@ Strong interpersonal, quantitative, problem-solving, computer and conceptual ski
 Aptitude in predictive modeling, multivariate analysis, statistical modeling, data mining techniques and mathematical statistics.
 Ability to apply strong programming and data management skills.
 Knowledge of and experience with at least one major computer programming language or advanced syntax in a major statistical package.
-This job is classified as exempt.",4.9,"Acuity Insurance
-4.9","Sheboygan, WI",1001 - 5000 ,1925,Company - Private,Insurance Carriers,Insurance,$1 to $2 billion (USD),50.5,81.5,101,163,132.0,Acuity Insurance, WI,95,0,0,0,0,0,0
-Senior Analyst/Data Scientist,$101K-$163K (Glassdoor est.),"At Edmunds were driven to make car buying easier. Ever since we began publishing printed car guides in the 60s, the company has been in the business of trust, innovating ways to empower and support car shoppers. When Edmunds launched the car industrys first Internet site in 1994, we established a leadership position online and have never looked back. Now, as one of the most trusted review sites on the Internet, millions of visitors use our research, shopping and buying tools every month to make an easy and informed decision on their next car. For consumers, we bring peace of mind. For dealers, we make tools to help them solve their problems and sell more cars. How do we do it, you ask? The key ingredients are our enthusiastic employees, progressive company culture and cutting-edge technology. Want to join the team? Read on to find out how!
+This job is classified as exempt.",4.9,"Sheboygan, WI",1001 - 5000 ,1925,Company - Private,Insurance Carriers,Insurance,$1 to $2 billion (USD),50.5,81.5,101,163,132.0,Acuity Insurance, WI,95,0,0,0,0,0,0
+Senior Analyst/Data Scientist,"At Edmunds were driven to make car buying easier. Ever since we began publishing printed car guides in the 60s, the company has been in the business of trust, innovating ways to empower and support car shoppers. When Edmunds launched the car industrys first Internet site in 1994, we established a leadership position online and have never looked back. Now, as one of the most trusted review sites on the Internet, millions of visitors use our research, shopping and buying tools every month to make an easy and informed decision on their next car. For consumers, we bring peace of mind. For dealers, we make tools to help them solve their problems and sell more cars. How do we do it, you ask? The key ingredients are our enthusiastic employees, progressive company culture and cutting-edge technology. Want to join the team? Read on to find out how!
 
 What Youre Applying For:
 
@@ -1378,9 +1351,8 @@ Employees think its a pretty great place to work and some pretty impressive publ
 
 Edmunds will consider for employment qualified candidates with criminal histories in a manner consistent with the requirements of all applicable laws.
 
-*LI-POST",3.6,"Edmunds.com
-3.6","Santa Monica, CA",501 - 1000 ,1966,Company - Private,Internet,Information Technology,$100 to $500 million (USD),50.5,81.5,101,163,132.0,Edmunds.com, CA,54,1,0,0,1,0,0
-Data Analyst,$101K-$163K (Glassdoor est.),"At TrialCard, our passion is success - success for clients, success for us. You’ll notice who comes first. We’re committed to providing solutions, through innovation and unparalleled customer support, to the pharmaceutical industry to improve access and affordability of their medicines to patients. We work tirelessly on the behalf of our clients, because when they succeed, so do we.
+*LI-POST",3.6,"Santa Monica, CA",501 - 1000 ,1966,Company - Private,Internet,Information Technology,$100 to $500 million (USD),50.5,81.5,101,163,132.0,Edmunds.com, CA,54,1,0,0,1,0,0
+Data Analyst,"At TrialCard, our passion is success - success for clients, success for us. You’ll notice who comes first. We’re committed to providing solutions, through innovation and unparalleled customer support, to the pharmaceutical industry to improve access and affordability of their medicines to patients. We work tirelessly on the behalf of our clients, because when they succeed, so do we.
 The Data Analyst will support internal stakeholders through the aggregation of data for reporting and analytical purposes. The candidate must have the ability to manipulate and normalize data in a way that helps support accurate reporting and foster operational standardization. The Data Analyst will also work cross-functionally to gather and translate requirements across business units creating synergies and developing efficiencies.
 The candidate must be an excellent communicator (both orally and written) and be able to effectively foster interactive collaboration and discussions among clients and internal TrialCard teams. The Data Analyst must be able to present analyses and conclusions in a logical and clear manner and must be able to effectively work as part of a team.
 
@@ -1407,9 +1379,8 @@ Understanding of dimensional data modeling concepts, as well as data warehousing
 Experience designing and implementing enterprise business intelligence solutions using Microstrategy, Microsoft SSRS or similar highly desirable.
 Knowledge of the pharmaceutical industry highly desirable.
 Knowledge of direct marketing highly desirable.
-Experience in the healthcare industry is highly desirable.",3.3,"TrialCard
-3.3","Morrisville, NC",1001 - 5000 ,2001,Company - Private,Advertising & Marketing,Business Services,$50 to $100 million (USD),50.5,81.5,101,163,132.0,TrialCard, NC,19,0,0,0,0,0,0
-Data Analyst,$101K-$163K (Glassdoor est.),"Healthgrades is focused on providing trusted information that allows consumers and providers to make meaningful connections. As a Data Analyst focused on our Physician Relationship Management platform your primary areas of responsibility and accountability will be:
+Experience in the healthcare industry is highly desirable.",3.3,"Morrisville, NC",1001 - 5000 ,2001,Company - Private,Advertising & Marketing,Business Services,$50 to $100 million (USD),50.5,81.5,101,163,132.0,TrialCard, NC,19,0,0,0,0,0,0
+Data Analyst,"Healthgrades is focused on providing trusted information that allows consumers and providers to make meaningful connections. As a Data Analyst focused on our Physician Relationship Management platform your primary areas of responsibility and accountability will be:
 Data Querying and Data Management
 Generating Data Driven Reports and Applications
 Organizing and Reporting Results to Stakeholders
@@ -1433,9 +1404,8 @@ At Healthgrades, we recognize that our people drive our greatest achievements. W
 Impactful Work empowering consumers with data to make the right decisions for themselves and their families
 Changing the Game evolving culture with career advancement opportunities
 Community Builders collaborating with local charity and wellness initiatives
-Robust Perks generous PTO, 401k contributions, tuition assistance, entertainment discounts and more!",2.9,"Healthgrades
-2.9","Denver, CO",501 - 1000 ,1998,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,50.5,81.5,101,163,132.0,Healthgrades, CO,22,0,0,0,0,0,0
-"Data Scientist, Product Development",$55K-$91K (Glassdoor est.),"Spokeo is a people search engine that both enlightens and empowers our customers. With over 12 billion records and 18 million visitors per month, we reconnect friends, reunite families, prevent fraud, and more.
+Robust Perks generous PTO, 401k contributions, tuition assistance, entertainment discounts and more!",2.9,"Denver, CO",501 - 1000 ,1998,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,50.5,81.5,101,163,132.0,Healthgrades, CO,22,0,0,0,0,0,0
+"Data Scientist, Product Development","Spokeo is a people search engine that both enlightens and empowers our customers. With over 12 billion records and 18 million visitors per month, we reconnect friends, reunite families, prevent fraud, and more.
 
 We are looking for a Data Scientist, Product Development to join us in Pasadena, CA, and help us turn our vast repository of data into usable information leveraging solutions that include matching techniques, machine learning, and graph theory to resolve entities across disparate data sets. Ultimately, these entity relationships will be used to build models that will be incorporated into the Spokeo product suite. This is part of Spokeo's Data Operations Team and is not an analytics-based role.
 
@@ -1461,9 +1431,8 @@ Spokeo is an equal opportunity employer. Applicants will receive consideration f
 
 Recruiters or staffing agencies: Spokeo is not obligated to compensate any external recruiter or search firm who presents a candidate or their resume or profile to a Spokeo employee without 1) a current, fully-executed agreement on file and 2) being assigned to the open position (as a search) via our applicant tracking solution.
 
-]]>",3.4,"Spokeo
-3.4","Pasadena, CA",51 - 200 ,2006,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,27.5,45.5,55,91,73.0,Spokeo, CA,14,1,0,1,0,0,1
-Marketing Analytics Data Scientist,$55K-$91K (Glassdoor est.),"Tinder brings people together. With tens of millions of users and a presence in every country on earth, our reach is expansive and rapidly growing. Tinder’s Analytics Team is looking for a Data Scientist with expertise in Marketing.
+]]>",3.4,"Pasadena, CA",51 - 200 ,2006,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,27.5,45.5,55,91,73.0,Spokeo, CA,14,1,0,1,0,0,1
+Marketing Analytics Data Scientist,"Tinder brings people together. With tens of millions of users and a presence in every country on earth, our reach is expansive and rapidly growing. Tinder’s Analytics Team is looking for a Data Scientist with expertise in Marketing.
 
 The Marketing Analytics team takes ownership of the decisions being made from our data – we develop a deep understanding of both the business and its data and establish close working relationships with all teams - starting with Marketing but also including Product, Engineering, and Finance – so that we can provide recommendations and make proposals regarding prioritization of initiatives, product launches, A/B tests, and company performance.
 
@@ -1497,9 +1466,8 @@ As part of our team, you’ll enjoy:
 · Working with an outstanding team of creative, fun and highly motivated people
 · Comprehensive health coverage, competitive salary, and 401(k) match
 
-At Tinder, we don’t just accept difference — we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products, and our community. Tinder is proud to be an equal opportunity workplace.",3.9,"Tinder
-3.9","Los Angeles, CA",201 - 500 ,2012,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,27.5,45.5,55,91,73.0,Tinder, CA,8,1,0,0,0,0,0
-Senior Genomic Data Scientist,$55K-$91K (Glassdoor est.),"GeneDx is seeking a Senior Genomic Data Scientist
+At Tinder, we don’t just accept difference — we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products, and our community. Tinder is proud to be an equal opportunity workplace.",3.9,"Los Angeles, CA",201 - 500 ,2012,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,27.5,45.5,55,91,73.0,Tinder, CA,8,1,0,0,0,0,0
+Senior Genomic Data Scientist,"GeneDx is seeking a Senior Genomic Data Scientist
 
 GeneDx is a rapidly-growing, diverse clinical laboratory in Gaithersburg, MD that provides molecular diagnosis for genetic disorders. GeneDx is recruiting for a full-time Senior Genomic Data Scientist. This scientist will work as part of a team to develop techniques and software for genomic and phenomic data analysis. The successful candidate must be self-motivated and able to work both independently and as part of a small team.
 
@@ -1536,9 +1504,8 @@ Health Savings Account (HSA)
 Employee Discounts
 Regular performance appraisals
 Many promotions from within
-Business casual dress code",2.8,"GeneDx
-2.8","Gaithersburg, MD",201 - 500 ,-1,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10 to $25 million (USD),27.5,45.5,55,91,73.0,GeneDx, MD,-1,1,0,0,1,0,0
-DATA SCIENTIST,$55K-$91K (Glassdoor est.),"JOB SUMMARY
+Business casual dress code",2.8,"Gaithersburg, MD",201 - 500 ,-1,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10 to $25 million (USD),27.5,45.5,55,91,73.0,GeneDx, MD,-1,1,0,0,1,0,0
+DATA SCIENTIST,"JOB SUMMARY
 
 The position will focus on building products to democratize machine learning and consequently improve the cost and quality of patient care. This position involves development of tools that accelerate analytics and machine learning for the organization. Developing models that encompass all aspects of hospital operations, including clinical, operational, and financial data. Also responsible for teaching data analysts and software engineers how to work effectively with vast quantities of data
 This position requires full understanding and active participation in fulfilling the Mission of Blessing Health System. It is expected that the employee demonstrate behavior consistent with the Core Values while supporting the strategic plan, goals and direction of the Performance Improvement Process (PIP) at Blessing Health System.
@@ -1566,9 +1533,8 @@ Blessing Health System expressly prohibits any form of workplace harassment base
 19437
 
 Location: Blessing Hospital · DECISION SUPPORT
-Schedule: Full-Time, Days, Monday-Friday, 8:00am-5:00pm, 40 hours weekly",3.8,"Blessing Hospital
-3.8","Quincy, IL",1001 - 5000 ,1875,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),27.5,45.5,55,91,73.0,Blessing Hospital, IL,145,1,0,0,1,1,0
-Marketing Data Analyst,$55K-$91K (Glassdoor est.),"Overview:
+Schedule: Full-Time, Days, Monday-Friday, 8:00am-5:00pm, 40 hours weekly",3.8,"Quincy, IL",1001 - 5000 ,1875,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),27.5,45.5,55,91,73.0,Blessing Hospital, IL,145,1,0,0,1,1,0
+Marketing Data Analyst,"Overview:
 Can you work in a relationship with other people where it requires ongoing flexibility?
 Do you have an upbeat, positive attitude?
 Do you take pride in knowing you are helping to make things happen?
@@ -1603,9 +1569,8 @@ Must be eligible for membership at Idaho Central Credit Union to obtain employme
 
 EOE/Minorities/Females/Vet/Disability
 
-Idaho Central Credit Union is a dynamic financial institution that is focused on helping our members achieve financial success. Established in 1940 we have become the largest and fastest growing financial institution in the state of Idaho. ICCU was voted for large companies the Best Place to work in Idaho. We have also been named by S&P Global Market Intelligence as the top performing credit union in the nation. We are a talent based organization looking for talented individuals to help our members achieve financial success.",4.2,"Idaho Central Credit Union
-4.2","Chubbuck, ID",1001 - 5000 ,1940,Nonprofit Organization,Banks & Credit Unions,Finance,$50 to $100 million (USD),27.5,45.5,55,91,73.0,Idaho Central Credit Union, ID,80,0,0,0,0,0,0
-Business Intelligence Analyst,$55K-$91K (Glassdoor est.),"Join a small, dynamic data-warehouse (DWH) team responsible for providing detailed documentation for the development of the company’s Data Warehouse. This position is not just a technical position, but a marketing/consumer/business person with strong analytical skill set. Must be hands on in this analytical role, with strong SQL skillset.
+Idaho Central Credit Union is a dynamic financial institution that is focused on helping our members achieve financial success. Established in 1940 we have become the largest and fastest growing financial institution in the state of Idaho. ICCU was voted for large companies the Best Place to work in Idaho. We have also been named by S&P Global Market Intelligence as the top performing credit union in the nation. We are a talent based organization looking for talented individuals to help our members achieve financial success.",4.2,"Chubbuck, ID",1001 - 5000 ,1940,Nonprofit Organization,Banks & Credit Unions,Finance,$50 to $100 million (USD),27.5,45.5,55,91,73.0,Idaho Central Credit Union, ID,80,0,0,0,0,0,0
+Business Intelligence Analyst,"Join a small, dynamic data-warehouse (DWH) team responsible for providing detailed documentation for the development of the company’s Data Warehouse. This position is not just a technical position, but a marketing/consumer/business person with strong analytical skill set. Must be hands on in this analytical role, with strong SQL skillset.
 
 · Experience with use of data warehouse tables and operational data, to effectively write and modify SQL queries of moderate to difficult complexity.
 
@@ -1680,9 +1645,8 @@ Benefit Conditions:
 Waiting period may apply
 Only full-time employees eligible
 Work Remotely:
-Temporarily due to COVID-19",2.2,"AmeriMark Direct
-2.2","Cleveland, OH",201 - 500 ,-1,Company - Public,Other Retail Stores,Retail,Unknown / Non-Applicable,27.5,45.5,55,91,73.0,AmeriMark Direct, OH,-1,0,0,0,0,0,0
-Electromagnetics Scientist,$55K-$91K (Glassdoor est.),"Riverside Research has an immediate opening in the Beavercreek, Ohio area for an Electromagnetics Scientist. The candidate will perform modeling analysis of EM interactions with various materials in defined configurations.
+Temporarily due to COVID-19",2.2,"Cleveland, OH",201 - 500 ,-1,Company - Public,Other Retail Stores,Retail,Unknown / Non-Applicable,27.5,45.5,55,91,73.0,AmeriMark Direct, OH,-1,0,0,0,0,0,0
+Electromagnetics Scientist,"Riverside Research has an immediate opening in the Beavercreek, Ohio area for an Electromagnetics Scientist. The candidate will perform modeling analysis of EM interactions with various materials in defined configurations.
 
 All Riverside Research opportunities require U.S. citizenship.
 
@@ -1719,9 +1683,8 @@ All positions at Riverside Research are subject to background investigations. Em
 
 This contractor and subcontractor shall abide by the requirements of 41 CFR 60-741.5(a). This regulation prohibits discrimination against qualified individuals on the basis of disability, and requires affirmative action by covered prime contractors and subcontractors to employ and advance in employment qualified individuals with disabilities.
 
-This contractor and subcontractor shall abide by the requirements of 41 CFR 60-300.5(a). This regulation prohibits discrimination against qualified protected veterans, and requires affirmative action by covered contractors and subcontractors to employ and advance in employment qualified protected veterans.",3.4,"Riverside Research
-3.4","Wright Patterson AFB, OH",501 - 1000 ,1967,Nonprofit Organization,Federal Agencies,Government,$50 to $100 million (USD),27.5,45.5,55,91,73.0,Riverside Research, OH,53,1,0,0,0,1,0
-Data Scientist,$55K-$91K (Glassdoor est.),"STRATACACHE provides salable customer experiences, empowering retailers to learn deeply about their customers’ shopping preferences and behaviors, allowing for personalized shopper interaction. Our solutions deliver consumer activation at the point-of-decision, generating new sales opportunities and enhanced retail profitability. With 3 million+ software activations globally, we power the biggest digital networks for the world’s largest brands. Across the STRATACACHE family of complementary digital media/ad tech solution companies, we have the technology, expertise and track record to bring retail innovation that delivers results.
+This contractor and subcontractor shall abide by the requirements of 41 CFR 60-300.5(a). This regulation prohibits discrimination against qualified protected veterans, and requires affirmative action by covered contractors and subcontractors to employ and advance in employment qualified protected veterans.",3.4,"Wright Patterson AFB, OH",501 - 1000 ,1967,Nonprofit Organization,Federal Agencies,Government,$50 to $100 million (USD),27.5,45.5,55,91,73.0,Riverside Research, OH,53,1,0,0,0,1,0
+Data Scientist,"STRATACACHE provides salable customer experiences, empowering retailers to learn deeply about their customers’ shopping preferences and behaviors, allowing for personalized shopper interaction. Our solutions deliver consumer activation at the point-of-decision, generating new sales opportunities and enhanced retail profitability. With 3 million+ software activations globally, we power the biggest digital networks for the world’s largest brands. Across the STRATACACHE family of complementary digital media/ad tech solution companies, we have the technology, expertise and track record to bring retail innovation that delivers results.
 
 Learn more about the STRATACACHE family at www.stratacache.com.
 
@@ -1783,9 +1746,8 @@ STRATACACHE and its family of companies provides equal employment opportunities 
 
 While we are excited and appreciate you interest in our opportunities, please keep in mind that we are not able to contact all applicants that have applied.
 
-No vendor/agency solicitation please.",3.5,"STRATACACHE
-3.5","Dayton, OH",201 - 500 ,1999,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),27.5,45.5,55,91,73.0,STRATACACHE, OH,21,1,0,0,0,0,1
-Data Scientist,$55K-$91K (Glassdoor est.),"Job Description:
+No vendor/agency solicitation please.",3.5,"Dayton, OH",201 - 500 ,1999,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),27.5,45.5,55,91,73.0,STRATACACHE, OH,21,1,0,0,0,0,1
+Data Scientist,"Job Description:
 
 Metron is seeking talented Data Scientists for a Data Science Support effort. You will be working directly with a government team to design, implement and analyze the results of data science solutions to the client’s machine learning and data mining problems. The ideal candidate will be a self-starter that enjoys working in teams and grappling with data problems from identifying data requirements to implementing analytics and machine learning solutions.
 
@@ -1805,9 +1767,8 @@ Position Location: Reston, VA
 
 All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, or protected veteran status. Metron takes affirmative action in support of its policy to employ and advance in employment individuals who are minorities, women, protected veterans, and individuals with disabilities.
 
-VEVRAA Federal Contractor",3.0,"Metron, Inc.
-3.0","Reston, VA",51 - 200 ,-1,Company - Private,Electrical & Electronic Manufacturing,Manufacturing,$25 to $50 million (USD),27.5,45.5,55,91,73.0,"Metron, Inc.", VA,-1,1,0,0,0,0,0
-Project Manager/Senior Scientist,$55K-$91K (Glassdoor est.),"Project Manager/Senior Scientist*
+VEVRAA Federal Contractor",3.0,"Reston, VA",51 - 200 ,-1,Company - Private,Electrical & Electronic Manufacturing,Manufacturing,$25 to $50 million (USD),27.5,45.5,55,91,73.0,"Metron, Inc.", VA,-1,1,0,0,0,0,0
+Project Manager/Senior Scientist,"Project Manager/Senior Scientist*
 Boyle Associates, a subsidiary of CEA, is a full-service environmental consulting firm located on the working waterfront in Portland, Maine. Our staff has extensive experience in meeting client needs of early stage development and preliminary project diligence, support in developing permit applications and obtaining regulatory approvals, and supporting compliance and oversight during construction.
 We support our clients on diverse projects in both terrestrial and marine environments. We work on a great variety of projects and this position offers a growth opportunity to the right applicant.
 
@@ -1844,9 +1805,8 @@ Required travel:
 Additional Compensation:
 Bonuses
 Work Location:
-One location",4.5,"Boyle Associates, a subsidiary of CEA
-4.5","Portland, ME",51 - 200 ,-1,Company - Private,Consulting,Business Services,$10 to $25 million (USD),27.5,45.5,55,91,73.0,"Boyle Associates, a subsidiary of CEA", ME,-1,0,0,0,0,0,0
-V&S Business Data Analyst,$55K-$91K (Glassdoor est.),"Sony Electronics, Inc. look for the risk-takers, the collaborators, the inspired and the inspirational. We want the people who are brave enough to work at the cutting edge and create solutions that will enrich and improve the lives of people across the globe. So, if you want to make the world say wow, let's talk.
+One location",4.5,"Portland, ME",51 - 200 ,-1,Company - Private,Consulting,Business Services,$10 to $25 million (USD),27.5,45.5,55,91,73.0,"Boyle Associates, a subsidiary of CEA", ME,-1,0,0,0,0,0,0
+V&S Business Data Analyst,"Sony Electronics, Inc. look for the risk-takers, the collaborators, the inspired and the inspirational. We want the people who are brave enough to work at the cutting edge and create solutions that will enrich and improve the lives of people across the globe. So, if you want to make the world say wow, let's talk.
 
 Description
 The data analyst will ensure accurate, timely and critical business, financial data submission and provide ongoing reporting
@@ -1871,9 +1831,8 @@ Sony Electronics is an Equal Opportunity Employer that values employees with a b
 
 Disability Accommodation for Applicants to Sony Electronics, Inc.
 
-Sony Electronics, Inc. provides reasonable accommodation for qualified individuals with disabilities and disabled veterans in job application procedures. For reasonable accommodation requests, please contact us by email at talenthelp@am.sony.com, or you can mail your resume to: Sony Electronics, Human Resources Department, 16535 Via Esprillo, San Diego CA 92127. Please indicate the position you are applying for.",4.0,"Sony Electronics
-4.0","San Diego, CA",10000+ ,1946,Subsidiary or Business Segment,Consumer Products Manufacturing,Manufacturing,$2 to $5 billion (USD),27.5,45.5,55,91,73.0,Sony Electronics, CA,74,0,0,0,0,0,0
-Junior Data Scientist,$55K-$91K (Glassdoor est.),"What Great Looks Like In This Role
+Sony Electronics, Inc. provides reasonable accommodation for qualified individuals with disabilities and disabled veterans in job application procedures. For reasonable accommodation requests, please contact us by email at talenthelp@am.sony.com, or you can mail your resume to: Sony Electronics, Human Resources Department, 16535 Via Esprillo, San Diego CA 92127. Please indicate the position you are applying for.",4.0,"San Diego, CA",10000+ ,1946,Subsidiary or Business Segment,Consumer Products Manufacturing,Manufacturing,$2 to $5 billion (USD),27.5,45.5,55,91,73.0,Sony Electronics, CA,74,0,0,0,0,0,0
+Junior Data Scientist,"What Great Looks Like In This Role
 
 Our ideal teammate is someone who is a continuous learner who can adapt and thrive in complex, uncertain and changing situations. Someone who enjoys tackling complex tasks in a collaborative environment is well-suited to a position on our team. Self-motivated individuals comfortable working in a challenging, fast paced, technical environment are highly encouraged to apply!
 
@@ -1942,9 +1901,8 @@ Our employees are the embodiment of the idea that we all are stronger and better
 
 Americas Best Employer for Diversity Forbes (2019)
 Score of 100 on the Human Rights Campaign Corporate Equality Index (2019)
-National Association for Female Executives Top Company for Executive Women (2018) Disability Equality Index (DEI) Best Place to Work for Disability Inclusion (2019) Diversity Best Practices Inclusion Index Company (2018)",3.7,"MassMutual
-3.7","Amherst, MA",5001 - 10000 ,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),27.5,45.5,55,91,73.0,MassMutual, MA,169,1,0,0,0,0,0
-Business Intelligence Analyst,$55K-$91K (Glassdoor est.),"Blucora has a bold aspiration: we are committed to giving all people the tools needed to lead healthy financial lives - tools often reserved for the wealthy.
+National Association for Female Executives Top Company for Executive Women (2018) Disability Equality Index (DEI) Best Place to Work for Disability Inclusion (2019) Diversity Best Practices Inclusion Index Company (2018)",3.7,"Amherst, MA",5001 - 10000 ,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),27.5,45.5,55,91,73.0,MassMutual, MA,169,1,0,0,0,0,0
+Business Intelligence Analyst,"Blucora has a bold aspiration: we are committed to giving all people the tools needed to lead healthy financial lives - tools often reserved for the wealthy.
 
 We began our journey by bringing together two industry-leading firms to form a foundation in tax-smart investing that is unreplaceable in the industry. TaxAct is an innovative tax software company that helps more than 4 million Americans prepare their own taxes each year. HD Vest is the first firm in the world to make it possible for tax professionals to support clients’ wealth management needs (now over $45B for more than 300,000 Americans).
 
@@ -1981,9 +1939,8 @@ Comprehensive Benefits
 
 We offer a competitive salary, outstanding benefits package that includes medical, dental, vision, life insurance, paid vacation and sick days, paid holidays, tuition reimbursement, and 401(k) with company match.
 
-Blucora, Inc is an equal opportunity employer and does not unlawfully discriminate on the basis of race, sex, age, color, religion, national origin, marital status, sexual orientation, veteran status, disability status or any other basis prohibited by federal, state or local law. Blucora, Inc considers information gathered in the hiring process, including information on this application, confidential, and only shares it on a need-to know basis or as required by law. Please let us know if you need accommodations in order to participate in the application process.",3.3,"Blucora
-3.3","Dallas, TX",501 - 1000 ,1996,Company - Public,Financial Transaction Processing,Finance,$500 million to $1 billion (USD),27.5,45.5,55,91,73.0,Blucora, TX,24,0,0,0,0,0,0
-Data Architect/Scientist,$55K-$91K (Glassdoor est.),"Senior Member of Technical Staff – DATA ARCHITECT / SCIENTIST
+Blucora, Inc is an equal opportunity employer and does not unlawfully discriminate on the basis of race, sex, age, color, religion, national origin, marital status, sexual orientation, veteran status, disability status or any other basis prohibited by federal, state or local law. Blucora, Inc considers information gathered in the hiring process, including information on this application, confidential, and only shares it on a need-to know basis or as required by law. Please let us know if you need accommodations in order to participate in the application process.",3.3,"Dallas, TX",501 - 1000 ,1996,Company - Public,Financial Transaction Processing,Finance,$500 million to $1 billion (USD),27.5,45.5,55,91,73.0,Blucora, TX,24,0,0,0,0,0,0
+Data Architect/Scientist,"Senior Member of Technical Staff – DATA ARCHITECT / SCIENTIST
 US, Home Office
 
 US Citizen or Permanent Resident
@@ -2033,9 +1990,8 @@ Experience with Nifi / Kafka / Postgres / Hadoop / Linux
 Familiarity with Real Time Operating Systems (RTOS)
 Experience in autonomous systems development is a plus
 3+ years of experience of big data analytics
-6+ years working in software development arena",4.1,"Wind River
-4.1","Seattle, WA",1001 - 5000 ,1981,Subsidiary or Business Segment,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),27.5,45.5,55,91,73.0,Wind River, WA,39,1,0,0,0,0,1
-Data Analyst,$55K-$91K (Glassdoor est.),"Big Huge Games is looking for a qualified Data Analyst to help provide data insights to our games teams and upcoming BHG titles to assist them in making successful strategic and game direction decisions. This role works closely with our Product and Design teams to structure quantitative questions, gather player data, employ statistical methodology in analysis of the data, and construct insightful reporting and visualizations to communicate those results to the wider team.
+6+ years working in software development arena",4.1,"Seattle, WA",1001 - 5000 ,1981,Subsidiary or Business Segment,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),27.5,45.5,55,91,73.0,Wind River, WA,39,1,0,0,0,0,1
+Data Analyst,"Big Huge Games is looking for a qualified Data Analyst to help provide data insights to our games teams and upcoming BHG titles to assist them in making successful strategic and game direction decisions. This role works closely with our Product and Design teams to structure quantitative questions, gather player data, employ statistical methodology in analysis of the data, and construct insightful reporting and visualizations to communicate those results to the wider team.
 
 This a full-time position onsite at our studio in Timonium, MD. No telecommuting or remote work options are available.
 Due to the circumstances surrounding COVID19 positions may begin remote before transitioning to onsite.
@@ -2059,9 +2015,8 @@ This a full-time position onsite at our studio in Timonium, MD. No telecommuting
 Due to the circumstances surrounding COVID19 positions may begin remote before transitioning to onsite.
 
 
-Applicants should download DomiNations on iOS or Android and be prepared to discuss the game.",4.9,"Big Huge Games
-4.9","Timonium, MD",51 - 200 ,2013,Subsidiary or Business Segment,Video Games,Media,Unknown / Non-Applicable,27.5,45.5,55,91,73.0,Big Huge Games, MD,7,0,1,0,0,0,0
-Data Science Engineer Full Stack - AI,$55K-$91K (Glassdoor est.),"Data Science Engineer Full Stack - AI
+Applicants should download DomiNations on iOS or Android and be prepared to discuss the game.",4.9,"Timonium, MD",51 - 200 ,2013,Subsidiary or Business Segment,Video Games,Media,Unknown / Non-Applicable,27.5,45.5,55,91,73.0,Big Huge Games, MD,7,0,1,0,0,0,0
+Data Science Engineer Full Stack - AI,"Data Science Engineer Full Stack - AI
 
 Overview
 
@@ -2093,9 +2048,8 @@ Excellent written and verbal communication
 Hands-on self starter
 Authorization to work for any employer in the US required.
 
-Powered by JazzHR",2.8,"BryterCX
-2.8",United States,51 - 200 ,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),27.5,45.5,55,91,73.0,BryterCX,-,20,1,0,1,0,0,0
-Marketing Data Analyst,$55K-$91K (Glassdoor est.),"College bachelor’s degree required. Major in Business, Marketing, Mathematics, Information Technology or other relevant field preferred.
+Powered by JazzHR",2.8,United States,51 - 200 ,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),27.5,45.5,55,91,73.0,BryterCX,-,20,1,0,1,0,0,0
+Marketing Data Analyst,"College bachelor’s degree required. Major in Business, Marketing, Mathematics, Information Technology or other relevant field preferred.
 Minimum of 3 years of data analysis experience or 3 years of experience in a role requiring an understanding of the underlying data for various systems required.
 Experience with various analytics/visualization platforms such as; PowerBI, Azure Machine Learning Services, Azure Data Factory preferred.
 Experience in measuring social media and mobile efforts a plus. Google Analytics experience strongly preferred
@@ -2107,9 +2061,8 @@ Critical Thinker Required: Must be able to critically and logically evaluate the
 Ability to Drive Results Required: Must be able to focus on important information without getting bogged down in unnecessary detail and effectively communicate insights and results with team members.
 Decision Making Required: Must be able to recognize the broad, systemic implications of problems and issues– and have the ability to make quick decisions in high stake situations, crises, and/or conditions of uncertainty. Takes responsibility for communicating and implementing decisions.
 Ability to engage, inspire, and foster a sense of energy, ownership, and personal commitment to high quality work.
-industry environment as a whole, regulations, and practices preferred.",4.3,"Southern Farm Bureau Life
-4.3","Jackson, MS",501 - 1000 ,1946,Company - Private,Insurance Carriers,Insurance,$1 to $2 billion (USD),27.5,45.5,55,91,73.0,Southern Farm Bureau Life, MS,74,0,0,0,0,0,0
-"Data Scientist, Machine Learning",$55K-$91K (Glassdoor est.),"Job Description
+industry environment as a whole, regulations, and practices preferred.",4.3,"Jackson, MS",501 - 1000 ,1946,Company - Private,Insurance Carriers,Insurance,$1 to $2 billion (USD),27.5,45.5,55,91,73.0,Southern Farm Bureau Life, MS,74,0,0,0,0,0,0
+"Data Scientist, Machine Learning","Job Description
 
 At Shipt, we are transforming the grocery shopping experience and giving time back to consumers. Shipt shoppers handpick fresh groceries and household essentials, then deliver them to your door in as little as one hour.
 
@@ -2141,9 +2094,8 @@ Experience with batch processing framework
 Familiarity with AWS, version control, and peer code review systems
 Familiarity with on-demand and/or multi-sided marketplaces
 Proficiency in both R and Python
-We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",3.6,"Shipt
-3.6","Birmingham, AL",1001 - 5000 ,2014,Subsidiary or Business Segment,Consumer Product Rental,Consumer Services,Unknown / Non-Applicable,27.5,45.5,55,91,73.0,Shipt, AL,6,1,0,0,1,0,0
-"Data Scientist, Cloud Business Operations",$55K-$91K (Glassdoor est.),"53303
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",3.6,"Birmingham, AL",1001 - 5000 ,2014,Subsidiary or Business Segment,Consumer Product Rental,Consumer Services,Unknown / Non-Applicable,27.5,45.5,55,91,73.0,Shipt, AL,6,1,0,0,1,0,0
+"Data Scientist, Cloud Business Operations","53303
 
 About NetApp
 
@@ -2180,9 +2132,8 @@ Nearest Secondary Market: Palo Alto
 Job Segment:
 Operations Manager, Scientific, Database, Cloud, Operations, Engineering, Technology
 
-Apply now »",3.8,"NetApp
-3.8","Sunnyvale, CA",10000+ ,1992,Company - Public,Enterprise Software & Network Solutions,Information Technology,$5 to $10 billion (USD),27.5,45.5,55,91,73.0,NetApp, CA,28,0,0,0,1,0,0
-Internship - Data Science,$55K-$91K (Glassdoor est.),"Internship - Data Science
+Apply now »",3.8,"Sunnyvale, CA",10000+ ,1992,Company - Public,Enterprise Software & Network Solutions,Information Technology,$5 to $10 billion (USD),27.5,45.5,55,91,73.0,NetApp, CA,28,0,0,0,1,0,0
+Internship - Data Science,"Internship - Data Science
 
 Job Details
 Level
@@ -2223,9 +2174,8 @@ Excellent oral, written, and interpersonal communication skills
 Experience with natural language processing and machine learning a plus
 Passion for cities both large and small! What makes each community unique and how can we unleash the full potential of each?
 We currently have 2 intern positions to start in August 2020 and end in December 2020 and are looking for candidates who can work 10-20hrs/week Monday through Friday. Pay will be $15.00/hr. Applicants MUST be U.S. citizens or permanent residents. Please elaborate on your skills and qualifications in your cover letter and send with resume to David Park (park@nlc.org).
-Qualifications",2.6,"National League of Cities
-2.6","Washington, DC",51 - 200 ,1991,Nonprofit Organization,Membership Organizations,Business Services,$5 to $10 million (USD),27.5,45.5,55,91,73.0,National League of Cities, DC,29,1,0,0,0,0,0
-Data Scientist,$70K-$95K (Glassdoor est.),"Description
+Qualifications",2.6,"Washington, DC",51 - 200 ,1991,Nonprofit Organization,Membership Organizations,Business Services,$5 to $10 million (USD),27.5,45.5,55,91,73.0,National League of Cities, DC,29,1,0,0,0,0,0
+Data Scientist,"Description
 
 Position at Homes.com
 
@@ -2254,9 +2204,8 @@ Homes.com offers today's demanding home buyers, renters and those somewhere in b
 About DE
 
 Dominion Enterprises (DE) is a leading digital marketing and software services company offering client solutions across multiple business verticals. Our customers rely on our B2B cloud SaaS solutions to establish their online and mobile brands, generate leads, and manage customer relationships through our Homes.com, Dominion Dealer Solutions, Dominion Business Solutions / DX1, Travel Media and Franchise and Business Opportunity divisions. Our B2C web and mobile applications include Homes.com, HotelCoupons.com, FranchiseOpportunities.com, FranchiseGator.com, Franchise.com, and BusinessBroker.net.
-About 2,000 employees reside and work in our Norfolk, VA home office and in offices across the U.S. Our employees will tell you about our collaborative, innovative, team-oriented work environment, excellent career enrichment opportunities, community service opportunities, competitive earnings, and a comprehensive benefits package that includes a generous 401(k). DE is an equal opportunity employer and supports a diverse workforce. DE is a drug-testing employer.",4.1,"Homes.com
-4.1","Norfolk, VA",201 - 500 ,1998,Company - Private,Real Estate,Real Estate,$50 to $100 million (USD),35.0,47.5,70,95,82.5,Homes.com, VA,22,1,0,0,0,0,0
-Data Scientist- Streetsboro Ohio Office,$70K-$95K (Glassdoor est.),"The Step2 Company is the largest American manufacturer of preschool and toddler toys and one of the world’s largest rotational molders of plastics. It’s our mission to be the leading innovator of children's products that build imaginations and enrich the family's celebration of childhood.
+About 2,000 employees reside and work in our Norfolk, VA home office and in offices across the U.S. Our employees will tell you about our collaborative, innovative, team-oriented work environment, excellent career enrichment opportunities, community service opportunities, competitive earnings, and a comprehensive benefits package that includes a generous 401(k). DE is an equal opportunity employer and supports a diverse workforce. DE is a drug-testing employer.",4.1,"Norfolk, VA",201 - 500 ,1998,Company - Private,Real Estate,Real Estate,$50 to $100 million (USD),35.0,47.5,70,95,82.5,Homes.com, VA,22,1,0,0,0,0,0
+Data Scientist- Streetsboro Ohio Office,"The Step2 Company is the largest American manufacturer of preschool and toddler toys and one of the world’s largest rotational molders of plastics. It’s our mission to be the leading innovator of children's products that build imaginations and enrich the family's celebration of childhood.
 
 Step2 proudly employs moms, dads, grandparents, aunts, uncles and everyone in between. We offer an environment of fun and hard work. Our mission of bringing families together isn’t just for our customers. The Step2 family starts with our employees and we’re excited that you’re interested in joining our team!
 
@@ -2308,9 +2257,8 @@ Step2 is an Equal Opportunity Employer
 
 
 
-Step2 is an Equal Opportunity Employer",3.3,"Step2
-3.3","Streetsboro, OH",1001 - 5000 ,1991,Company - Private,Consumer Products Manufacturing,Manufacturing,$100 to $500 million (USD),35.0,47.5,70,95,82.5,Step2, OH,29,0,0,0,0,0,0
-Semantic Data Modeler and Engineer,$70K-$95K (Glassdoor est.),"Semantic Data Modeler and Engineer
+Step2 is an Equal Opportunity Employer",3.3,"Streetsboro, OH",1001 - 5000 ,1991,Company - Private,Consumer Products Manufacturing,Manufacturing,$100 to $500 million (USD),35.0,47.5,70,95,82.5,Step2, OH,29,0,0,0,0,0,0
+Semantic Data Modeler and Engineer,"Semantic Data Modeler and Engineer
 
 Tucson Embedded Systems, Inc. is seeking a semantic data modeler and engineer within the real-time embedded space, preferably with experience in creating semantic data models within the defense and aerospace industry (i.e., for mission systems). This position is for work on existing and future government and industry contracts. We are seeking an individual with the following skills:
 
@@ -2392,9 +2340,8 @@ https://TucsonEmbedded.com
 Benefit Conditions:
 Only full-time employees eligible
 Work Remotely:
-No",2.8,"Tucson Embedded Systems, Inc.
-2.8",Alabama,51 - 200 ,1997,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD),35.0,47.5,70,95,82.5,"Tucson Embedded Systems, Inc.",Alabama,23,0,0,0,0,0,0
-Digital Pathology Scientist,$70K-$95K (Glassdoor est.),"Digital Pathology Scientist *
+No",2.8,Alabama,51 - 200 ,1997,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD),35.0,47.5,70,95,82.5,"Tucson Embedded Systems, Inc.",Alabama,23,0,0,0,0,0,0
+Digital Pathology Scientist,"Digital Pathology Scientist *
 Description*
 Mosaic Laboratories is looking for a full-time Digital Pathology Scientist. Mosaic Laboratories is a leading provider of pre-clinical and clinical trial laboratory services to pharmaceutical and biotechnology companies. This position will have significant interaction with Mosaic’s senior leadership and plays a key role driving financial reporting.
 Job Responsibilities*
@@ -2481,9 +2428,8 @@ English (Required)
 Work authorization:
 United States (Required)
 Work Remotely:
-No",3.5,"Mosaic Laboratories
-3.5","Lake Forest, CA",1 - 50 ,-1,Company - Private,-1,-1,$1 to $5 million (USD),35.0,47.5,70,95,82.5,Mosaic Laboratories, CA,-1,0,0,0,0,0,0
-Certified Lab Scientist or Certified Lab Tech,$70K-$95K (Glassdoor est.),"Prairie Ridge Health is looking for a team member to join or Lab Department in the role of Certified Lab Scientist or Certified Lab Tech. This position is PRN (as needed) and will be responsible for performing general laboratory testing in the areas of Hematology, Chemistry, Urinalysis, Transfusion Services, Coagulation, Microbiology, Serology, and Specimen processing with a high degree of accuracy and reliability...….
+No",3.5,"Lake Forest, CA",1 - 50 ,-1,Company - Private,-1,-1,$1 to $5 million (USD),35.0,47.5,70,95,82.5,Mosaic Laboratories, CA,-1,0,0,0,0,0,0
+Certified Lab Scientist or Certified Lab Tech,"Prairie Ridge Health is looking for a team member to join or Lab Department in the role of Certified Lab Scientist or Certified Lab Tech. This position is PRN (as needed) and will be responsible for performing general laboratory testing in the areas of Hematology, Chemistry, Urinalysis, Transfusion Services, Coagulation, Microbiology, Serology, and Specimen processing with a high degree of accuracy and reliability...….
 
 POSITION SUMMARY
 Lab Scientist
@@ -2521,9 +2467,8 @@ Shift: As Needed
 
 Powered by JazzHR
 
-Ly3sHi576B",2.0,"Prairie Ridge Health
-2.0","Columbus, WI",51 - 200 ,-1,Hospital,-1,-1,Less than $1 million (USD),35.0,47.5,70,95,82.5,Prairie Ridge Health, WI,-1,0,0,0,0,0,0
-Manufacturing Scientist,$70K-$95K (Glassdoor est.),"Biomerica Corporation focusing on the research, development and manufacturing of immunoassay test products is looking to identify and hire a Manufacturing Scientist to lead Contract manufacturing project and production and process improvement . As a key member of the Manufacturing Team, the Manufacturing Scientist will report to Director of Manufacturing and be responsible for, but not limited to the following
+Ly3sHi576B",2.0,"Columbus, WI",51 - 200 ,-1,Hospital,-1,-1,Less than $1 million (USD),35.0,47.5,70,95,82.5,Prairie Ridge Health, WI,-1,0,0,0,0,0,0
+Manufacturing Scientist,"Biomerica Corporation focusing on the research, development and manufacturing of immunoassay test products is looking to identify and hire a Manufacturing Scientist to lead Contract manufacturing project and production and process improvement . As a key member of the Manufacturing Team, the Manufacturing Scientist will report to Director of Manufacturing and be responsible for, but not limited to the following
 Carry out production tasks in support of manufacturing goals and objectives
 Lead and carry out contract manufacturing project.
 Purify recombinant proteins using column chromatography system.
@@ -2544,9 +2489,8 @@ A self-motivated individual with prior in experience and hands on skills in the 
 Job Type: Full-time
 
 Experience:
-relevant: 2 years (Preferred)",2.5,"Biomerica
-2.5","Irvine, CA",1 - 50 ,-1,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$5 to $10 million (USD),35.0,47.5,70,95,82.5,Biomerica, CA,-1,0,0,0,0,0,0
-Research Scientist - Lactic Solutions,$70K-$95K (Glassdoor est.),"The *Research Scientist - Lactic Solutions *will be part of a technical team involved in genetic engineering of lactic acid bacteria (LAB) for the production of fuels. This position will report directly to the *Senior Director of Lactic Solutions R&D at Mascoma*. The key activities for this position include metabolic engineering, heterologous protein expression, classical genetics, directed evolution, and development of strain screens and selections for specific applications of LAB. Specific responsibilities include:
+relevant: 2 years (Preferred)",2.5,"Irvine, CA",1 - 50 ,-1,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$5 to $10 million (USD),35.0,47.5,70,95,82.5,Biomerica, CA,-1,0,0,0,0,0,0
+Research Scientist - Lactic Solutions,"The *Research Scientist - Lactic Solutions *will be part of a technical team involved in genetic engineering of lactic acid bacteria (LAB) for the production of fuels. This position will report directly to the *Senior Director of Lactic Solutions R&D at Mascoma*. The key activities for this position include metabolic engineering, heterologous protein expression, classical genetics, directed evolution, and development of strain screens and selections for specific applications of LAB. Specific responsibilities include:
 
 · Using advanced molecular biology techniques to engineer lactic acid bacteria (LAB), analyze associated genotypes and phenotypes, and provide documentation of the process and results
 
@@ -2625,9 +2569,8 @@ Lallemand.com
 Company's Facebook page:
 https://www.facebook.com/lallemandinc
 Work Remotely:
-No",3.4,"Lallemand
-3.4","Lebanon, NH",1001 - 5000 ,1895,Company - Private,Food & Beverage Manufacturing,Manufacturing,Unknown / Non-Applicable,35.0,47.5,70,95,82.5,Lallemand, NH,125,0,0,0,0,0,0
-R&D Scientist,$70K-$95K (Glassdoor est.),"Our Research and Development department is on the forefront of product development and innovation. It is easy to be dedicated when you’re a part of something much bigger than yourself. We’ve got an insatiable appetite for making a difference. The ideal R&D Dairy and/or Dairy Alternative Scientist candidate will have an integral role in leading the product development of our next wave product innovations, while also lending technical support to our growing base business. We are looking for a candidate with a strong food science foundation, and a demonstrated expertise in product innovation, to help Chobani advance its’ mission of making healthy and delicious plant-based foods.
+No",3.4,"Lebanon, NH",1001 - 5000 ,1895,Company - Private,Food & Beverage Manufacturing,Manufacturing,Unknown / Non-Applicable,35.0,47.5,70,95,82.5,Lallemand, NH,125,0,0,0,0,0,0
+R&D Scientist,"Our Research and Development department is on the forefront of product development and innovation. It is easy to be dedicated when you’re a part of something much bigger than yourself. We’ve got an insatiable appetite for making a difference. The ideal R&D Dairy and/or Dairy Alternative Scientist candidate will have an integral role in leading the product development of our next wave product innovations, while also lending technical support to our growing base business. We are looking for a candidate with a strong food science foundation, and a demonstrated expertise in product innovation, to help Chobani advance its’ mission of making healthy and delicious plant-based foods.
 
 The responsibilities of this position include:
 Execute research and development plans and strategies for product development in support of company objectives
@@ -2658,9 +2601,8 @@ Our mission since day one has been to provide better food to more people. And no
 
 Our food philosophy of crafting quality products with simple ingredients is what sets Chobani apart. Our belief that business done right has the ability to change lives and strengthen communities is what sets our company apart. From the way we source our ingredients to how we treat our employees, Chobani strives to make universal wellness happen sooner with everything we do. Certified as a Great Place to Work®, our culture is built on shared passion, dedication, and a commitment to doing what is right. Together, the Chobani family has created something unlike what any company has done before. The possibilities are endless.
 
-Chobani is an equal opportunity employer. Chobani will not discriminate against any applicant for employment on any basis including, but not limited to: race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, military and/or veteran status, marital status, predisposing genetic characteristics and genetic information, or any other classification protected by federal, state and local laws.",4.3,"Chobani
-4.3","Twin Falls, ID",1001 - 5000 ,2005,Company - Private,Food & Beverage Manufacturing,Manufacturing,$1 to $2 billion (USD),35.0,47.5,70,95,82.5,Chobani, ID,15,0,0,0,1,0,0
-Research Scientist - Plant Transformation,$70K-$95K (Glassdoor est.),"Living Carbon is a pre-launch public benefit corporation with a mission to fight climate change by enhancing CO2 capture and storage in trees. We believe that gigaton scale CO2 drawdown will only happen if solutions are both environmentally beneficial and profitable to landowners. We’re working with some of the largest timber companies in the US and well-known reforestation projects to develop a proof of concept. We’re backed by some of the most prominent investors in Silicon Valley including, YCombinator, Sam Altman, and Chris Sacca of LowerCarbon Capital.
+Chobani is an equal opportunity employer. Chobani will not discriminate against any applicant for employment on any basis including, but not limited to: race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, military and/or veteran status, marital status, predisposing genetic characteristics and genetic information, or any other classification protected by federal, state and local laws.",4.3,"Twin Falls, ID",1001 - 5000 ,2005,Company - Private,Food & Beverage Manufacturing,Manufacturing,$1 to $2 billion (USD),35.0,47.5,70,95,82.5,Chobani, ID,15,0,0,0,1,0,0
+Research Scientist - Plant Transformation,"Living Carbon is a pre-launch public benefit corporation with a mission to fight climate change by enhancing CO2 capture and storage in trees. We believe that gigaton scale CO2 drawdown will only happen if solutions are both environmentally beneficial and profitable to landowners. We’re working with some of the largest timber companies in the US and well-known reforestation projects to develop a proof of concept. We’re backed by some of the most prominent investors in Silicon Valley including, YCombinator, Sam Altman, and Chris Sacca of LowerCarbon Capital.
 
 If you believe that climate change is the defining global emergency of the century and want to join an ambitious project that’s working on a biological solution, we’d love to hear from you.
 Your role: *
@@ -2710,9 +2652,8 @@ Monday to Friday
 Work authorization:
 United States (Required)
 Work Remotely:
-No",3.9,"Living Carbon
-3.9","San Francisco, CA",1 - 50 ,-1,Other Organization,-1,-1,Less than $1 million (USD),35.0,47.5,70,95,82.5,Living Carbon, CA,-1,0,0,0,0,0,0
-HCM Data Analyst,$70K-$95K (Glassdoor est.),"Any qualified individual with a disability who is having difficulty in completing an application because of incompatible technology or other disability-related application issues may contact us at the following phone number for assistance: 251-445-1932.
+No",3.9,"San Francisco, CA",1 - 50 ,-1,Other Organization,-1,-1,Less than $1 million (USD),35.0,47.5,70,95,82.5,Living Carbon, CA,-1,0,0,0,0,0,0
+HCM Data Analyst,"Any qualified individual with a disability who is having difficulty in completing an application because of incompatible technology or other disability-related application issues may contact us at the following phone number for assistance: 251-445-1932.
 
 Austal shall abide by the requirements of 41 CFR §§ 60-1.4(a), 60-300.5(a) and 60-741.5(a). These regulations prohibit discrimination against qualified individuals based on their status as protected veterans or individuals with disabilities, and prohibit discrimination against all individuals based on their race, color, religion, sex, sexual orientation, gender identity, or national origin. Moreover, these regulations require that covered prime contractors and subcontractors take affirmative action to employ and advance in employment individuals without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status or disability. Austal’s commitment to equal employment opportunity applies at all levels of employment, in all job titles, including the executive level, and to all employment actions, including but not limited to decisions concerning recruitment, hiring, training, and promotion.
 
@@ -2773,9 +2714,8 @@ Able to provide proof of US Person status (permanent resident or citizen)
 No felony convictions of theft/deception or violent crimes within seven years from disposition date
 No felony convictions of drug crimes within three years from disposition date
 Willing to submit to a drug screen
-Willing to submit to a background check",3.2,"Austal USA
-3.2","Mobile, AL",1001 - 5000 ,1988,Company - Public,Industrial Manufacturing,Manufacturing,$1 to $2 billion (USD),35.0,47.5,70,95,82.5,Austal USA, AL,32,0,0,0,0,0,0
-Field Scientist,$70K-$95K (Glassdoor est.),"Company Description*
+Willing to submit to a background check",3.2,"Mobile, AL",1001 - 5000 ,1988,Company - Public,Industrial Manufacturing,Manufacturing,$1 to $2 billion (USD),35.0,47.5,70,95,82.5,Austal USA, AL,32,0,0,0,0,0,0
+Field Scientist,"Company Description*
 SGS is the world's leading inspection, verification, testing, and certification company. SGS is recognized as the global benchmark for quality and integrity. With more than 94,000 employees SGS operates a network of over 2,600 offices and laboratories around the world.
 Job Description*
 PRIMARY RESPONSIBILITIES
@@ -2849,9 +2789,8 @@ Health insurance
 Paid time off
 Vision insurance
 Work Remotely:
-No",3.1,"SGS
-3.1","Murdock, MN",10000+ ,1878,Company - Public,Consulting,Business Services,$5 to $10 billion (USD),35.0,47.5,70,95,82.5,SGS, MN,142,0,0,0,1,0,0
-Fungal Scientist,$70K-$95K (Glassdoor est.),"Job Description/Primary Duties and Responsibilities: *
+No",3.1,"Murdock, MN",10000+ ,1878,Company - Public,Consulting,Business Services,$5 to $10 billion (USD),35.0,47.5,70,95,82.5,SGS, MN,142,0,0,0,1,0,0
+Fungal Scientist,"Job Description/Primary Duties and Responsibilities: *
 Biotechnical Scientist to provide scientific, engineering, and analysis in Biotechnology. This area includes experimental and theoretical pursuits mainly focused in microbiology, biochemistry, molecular biology and biological materials. Support services shall include the following:
 Cloning experiments including: nucleic acid handling, purification, and quantification. Further enzymatic assays such as Polymerase Chain Reaction (PCR), restriction digestion, and ligation reactions for synthetic biology projects
 Growth experiments with anaerobic and aerobic microorganisms in a bioreactor or standard incubator requiring sterile technique, preparation of growth media, plates and freezer stocks and perform growth curves
@@ -2923,9 +2862,8 @@ Team-oriented -- cooperative and collaborative
 Benefit Conditions:
 Only full-time employees eligible
 Work Remotely:
-No",2.5,"General Technical Services, LLC and Fibertek, Inc.
-2.5","Aberdeen Proving Ground, MD",1 - 50 ,1986,Company - Private,Consulting,Business Services,$10 to $25 million (USD),35.0,47.5,70,95,82.5,"General Technical Services, LLC and Fibertek, Inc.", MD,34,0,0,0,0,0,0
-"Data Scientist, Medical Diagnostics",$70K-$95K (Glassdoor est.),"_*The Company*_
+No",2.5,"Aberdeen Proving Ground, MD",1 - 50 ,1986,Company - Private,Consulting,Business Services,$10 to $25 million (USD),35.0,47.5,70,95,82.5,"General Technical Services, LLC and Fibertek, Inc.", MD,34,0,0,0,0,0,0
+"Data Scientist, Medical Diagnostics","_*The Company*_
 The world is facing a medical crisis, bacteria are increasingly evolving resistance to even our strongest antibiotics. The problem is already very real and immediate; for example, bloodstream infection leading to sepsis is now responsible for more than half of all deaths in hospitals and is the most expensive condition treated in hospitals. Sepsis mortality rate increases >6% every hour without effective antibiotic treatment. Yet, despite the life and death urgency, and healthcare cost impacts, current methodologies require 3 days to determine the correct antibiotic.
 
 Specific Diagnostics has developed a breakthrough solution to rapidly determine the effective antibiotic treatment for bloodstream and other acute infections. Used for bloodstream infection Specific’s solution provides results 2 days sooner than existing methods, saving patients suffering from drug-resistant infection.
@@ -2963,9 +2901,8 @@ relavent: 2 years (Required)
 Work authorization:
 United States (Required)
 Work Remotely:
-No",1.0,"Specific Diagnostics
-1.0","Mountain View, CA",1 - 50 ,-1,Company - Private,-1,-1,Less than $1 million (USD),35.0,47.5,70,95,82.5,Specific Diagnostics, CA,-1,1,0,0,0,0,0
-Process Development Scientist 29981- Validation & Investigation,$70K-$95K (Glassdoor est.),"Education: *
+No",1.0,"Mountain View, CA",1 - 50 ,-1,Company - Private,-1,-1,Less than $1 million (USD),35.0,47.5,70,95,82.5,Specific Diagnostics, CA,-1,1,0,0,0,0,0
+Process Development Scientist 29981- Validation & Investigation,"Education: *
 *Doctorate degree or Master’s degree and 3 years of directly related experience or Bachelor’s degree and 5 years of directly related experience or Associate’s degree and 10 years of directly related experience.*
 Preferred Qualifications: *
 *This position is to work in the PD Drug Product Formulation Team.*
@@ -2997,9 +2934,8 @@ Ability to be flexible and manage change. Computer literacy (Windows environment
 Skills requiring the application of scientific theory. Creative skills in the design and performance of scientific experiments and interpretation of results. Strong knowledge of cGMP’s. Fully bilingual (English/Spanish).
 Job Type: Full-time
 
-Salary: $0.00 per hour",3.7,"CIS International LLC
-3.7","Juncos, PR",Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),35.0,47.5,70,95,82.5,CIS International LLC, PR,-1,0,0,0,0,0,0
-Cell Line Development Scientist,$70K-$95K (Glassdoor est.),"Job Title: Scientist, Cell Line Development*
+Salary: $0.00 per hour",3.7,"Juncos, PR",Unknown,-1,Company - Private,-1,-1,Less than $1 million (USD),35.0,47.5,70,95,82.5,CIS International LLC, PR,-1,0,0,0,0,0,0
+Cell Line Development Scientist,"Job Title: Scientist, Cell Line Development*
 Work Location: Chesterfield - MO*
 Duration: 12 Months*
 Job Description:
@@ -3027,9 +2963,8 @@ Ph.D. entry-level or Masters with 5+ yrs experience
 Job Type: Contract
 
 Schedule:
-Monday to Friday",3.2,"Integrated Resources, Inc
-3.2","Chesterfield, MO",201 - 500 ,1996,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million (USD),35.0,47.5,70,95,82.5,"Integrated Resources, Inc", MO,24,0,0,0,0,0,0
-Data Analyst,$70K-$95K (Glassdoor est.),"PerBlue is looking for an aspiring Data Analyst to join our team. We’re a quickly growing independent studio whose free-to-play midcore mobile games have been played by millions people around the world, including Disney Heroes: Battle Mode. Our cross-functional and collaborative team has experience across the videogame industry. Headquartered in Madison, Wisconsin, we are also based remotely around the United States for an unmatched quality of life and work.
+Monday to Friday",3.2,"Chesterfield, MO",201 - 500 ,1996,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million (USD),35.0,47.5,70,95,82.5,"Integrated Resources, Inc", MO,24,0,0,0,0,0,0
+Data Analyst,"PerBlue is looking for an aspiring Data Analyst to join our team. We’re a quickly growing independent studio whose free-to-play midcore mobile games have been played by millions people around the world, including Disney Heroes: Battle Mode. Our cross-functional and collaborative team has experience across the videogame industry. Headquartered in Madison, Wisconsin, we are also based remotely around the United States for an unmatched quality of life and work.
 
 We’re looking for a thoughtful data wizard who can help us dig through mountains of video game data, analyze it, find actionable insights, and present them to everyone else on the team. We appreciate someone who can challenge us to think creatively in new ways about how to understand our data, while still having a commitment to delivering results.
 
@@ -3072,9 +3007,8 @@ We offer 6+ weeks of paid vacation and health, dental, and vision insurance as w
 
 We’ve been named a “Top Developer” by Google and given several “Best Place to Work” awards by a variety of publications.
 
-No agencies, please. We regret that we cannot consider visa sponsorship or candidates based outside of the United States for this position at this time.",4.3,"PerBlue
-4.3","Madison, WI",51 - 200 ,2010,Company - Private,Video Games,Media,Unknown / Non-Applicable,35.0,47.5,70,95,82.5,PerBlue, WI,10,1,0,0,0,0,0
-Scientist,$70K-$95K (Glassdoor est.),"Why Join Revenue Analytics?
+No agencies, please. We regret that we cannot consider visa sponsorship or candidates based outside of the United States for this position at this time.",4.3,"Madison, WI",51 - 200 ,2010,Company - Private,Video Games,Media,Unknown / Non-Applicable,35.0,47.5,70,95,82.5,PerBlue, WI,10,1,0,0,0,0,0
+Scientist,"Why Join Revenue Analytics?
 Because you have exceptional talents and you want to be part of a fun and highly collaborative team that creates analytical products and solutions to eliminate the unknowns in business problems for world-renowned companies.
 
 What's In It For You?
@@ -3105,9 +3039,8 @@ Must also have experience solving business problems using statistics, machine le
 Who We Are
 A pioneer of Revenue Management, Revenue Analytics is an enterprise SaaS company that partners with hospitality, media, and passenger rail companies to solve their most complex pricing challenges. By leveraging powerful analytics and deep strategic experience, Revenue Analytics’ next-generation software delivers intuitive answers to help companies perfect their pricing, reclaim missed revenue, and take back their time. To learn more about how Revenue Analytics is recreating Revenue Management, visit revenueanalytics.com or follow us on Twitter and LinkedIn.
 
-Revenue Analytics embraces diversity and is an equal opportunity. We are committed to building a Team that represents a variety of backgrounds, perspectives, and skills. The more inclusive we are, the better our work will be.",4.1,"Revenue Analytics
-4.1","Atlanta, GA",51 - 200 ,2005,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),35.0,47.5,70,95,82.5,Revenue Analytics, GA,15,1,0,0,0,0,0
-Scientific Data Analyst,$70K-$95K (Glassdoor est.),"Scientific Data Analyst
+Revenue Analytics embraces diversity and is an equal opportunity. We are committed to building a Team that represents a variety of backgrounds, perspectives, and skills. The more inclusive we are, the better our work will be.",4.1,"Atlanta, GA",51 - 200 ,2005,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),35.0,47.5,70,95,82.5,Revenue Analytics, GA,15,1,0,0,0,0,0
+Scientific Data Analyst,"Scientific Data Analyst
 
 Melbourne, FL
 
@@ -3219,9 +3152,8 @@ Key customers include the Department of Homeland Security, the Department of Def
 
 Strength in Diversity
 
-ENSCO, Inc. and its wholly owned U.S. subsidiaries are equal opportunity/affirmative action employers, committed to diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender identity, sexual orientation, national origin, disability, or protected veteran status, or any other protected characteristic under state or local law.",3.7,"ENSCO, Inc.
-3.7","Melbourne, FL",501 - 1000 ,1969,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),35.0,47.5,70,95,82.5,"ENSCO, Inc.", FL,51,1,0,0,0,1,0
-Senior Genomic Data Scientist,$70K-$95K (Glassdoor est.),"GeneDx is seeking a Senior Genomic Data Scientist
+ENSCO, Inc. and its wholly owned U.S. subsidiaries are equal opportunity/affirmative action employers, committed to diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender identity, sexual orientation, national origin, disability, or protected veteran status, or any other protected characteristic under state or local law.",3.7,"Melbourne, FL",501 - 1000 ,1969,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),35.0,47.5,70,95,82.5,"ENSCO, Inc.", FL,51,1,0,0,0,1,0
+Senior Genomic Data Scientist,"GeneDx is seeking a Senior Genomic Data Scientist
 
 GeneDx is a rapidly-growing, diverse clinical laboratory in Gaithersburg, MD that provides molecular diagnosis for genetic disorders. GeneDx is recruiting for a full-time Senior Genomic Data Scientist. This scientist will work as part of a team to develop techniques and software for genomic and phenomic data analysis. The successful candidate must be self-motivated and able to work both independently and as part of a small team.
 
@@ -3256,9 +3188,8 @@ Employee Discounts
 Regular performance appraisals
 Many promotions from within
 Business casual dress code
-Telecommuting options available",2.8,"GeneDx
-2.8","Gaithersburg, MD",201 - 500 ,-1,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10 to $25 million (USD),35.0,47.5,70,95,82.5,GeneDx, MD,-1,1,0,0,1,0,0
-Data Analyst,$70K-$95K (Glassdoor est.),"Breckenridge Grand Vacations (BGV) is seeking qualified analysts who will help grow our highly cross-functional analytics department. The Data Analyst is responsible for quantitative& qualitative analysis, reporting, and data mining across all of BGV’s finance, marketing, operations, and sales divisions. At its highest level, this position identifies the business’ analytical needs, collaborates with the analytics team& business intelligence, develops thoughtful analyses, and effectively communicates findings and recommendations to key decision makers including executive leadership. BGV Analysts are highly detail oriented, proactive self-starters, team players, capable of multi-tasking, and can analyze large amounts of data with creativity and innovation in mind. Please visit www.BGVjobs.com to apply!
+Telecommuting options available",2.8,"Gaithersburg, MD",201 - 500 ,-1,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10 to $25 million (USD),35.0,47.5,70,95,82.5,GeneDx, MD,-1,1,0,0,1,0,0
+Data Analyst,"Breckenridge Grand Vacations (BGV) is seeking qualified analysts who will help grow our highly cross-functional analytics department. The Data Analyst is responsible for quantitative& qualitative analysis, reporting, and data mining across all of BGV’s finance, marketing, operations, and sales divisions. At its highest level, this position identifies the business’ analytical needs, collaborates with the analytics team& business intelligence, develops thoughtful analyses, and effectively communicates findings and recommendations to key decision makers including executive leadership. BGV Analysts are highly detail oriented, proactive self-starters, team players, capable of multi-tasking, and can analyze large amounts of data with creativity and innovation in mind. Please visit www.BGVjobs.com to apply!
 
 Data Analyst Essential Duties and Responsibilities(including but not limited to):
 Understand and facilitate the integration of various business processes, people, software, data, and relevant technology to identify, configure, and communicate meaningful information that supports and drives decision making across all divisions of the company.
@@ -3299,9 +3230,8 @@ About Breckenridge Grand Vacations:
 
 BGV was formed in 1984, serving as the developer, owner, and operator of four Breckenridge Resorts: Gold Point Resort, Grand Timber Lodge, the Grand Lodge on Peak 7 and our newest resort, the Grand Colorado on Peak 8. Winner of the ACE Philanthropic Award in 2016 from the American Resort Development Association (ARDA), Denver Post’s 2018 Top Large Workplace: 1st Place, and winner of the ACE Project of Excellence (Grand Colorado on Peak 8) in 2020 from the American Resort Development Association (ARDA) as the best resort in the world for the year. Breckenridge Grand Vacations is widely recognized as one of the most successful independent developers in the industry.
 
-Here at Breckenridge Grand Vacations, we pride ourselves on always creating Grand vacations for families and friends alike. Our purpose statement sets the stage for impacting the lives not only of our owners and guests, but our employees and our community:The Soul of BGV is creating smiles!",4.3,"Breckenridge Grand Vacations
-4.3","Breckenridge, CO",501 - 1000 ,1984,Company - Private,"Hotels, Motels, & Resorts",Travel & Tourism,$10 to $25 million (USD),35.0,47.5,70,95,82.5,Breckenridge Grand Vacations, CO,36,1,0,0,0,1,0
-Supply Chain Solution - Data Scientist,$70K-$95K (Glassdoor est.),"*CURRENT EMPLOYEES :
+Here at Breckenridge Grand Vacations, we pride ourselves on always creating Grand vacations for families and friends alike. Our purpose statement sets the stage for impacting the lives not only of our owners and guests, but our employees and our community:The Soul of BGV is creating smiles!",4.3,"Breckenridge, CO",501 - 1000 ,1984,Company - Private,"Hotels, Motels, & Resorts",Travel & Tourism,$10 to $25 million (USD),35.0,47.5,70,95,82.5,Breckenridge Grand Vacations, CO,36,1,0,0,0,1,0
+Supply Chain Solution - Data Scientist,"*CURRENT EMPLOYEES :
 Please click here to be redirected to the internal career site.
 Job Description
 
@@ -3366,9 +3296,8 @@ If you have any queries about the processing of your data, please contact:
 
 Global Data Privacy Officer:
 
-Email Address: chiefprivacyofficer@flex.com",3.8,"Flex
-3.8","Austin, TX",10000+ ,1969,Company - Public,Electrical & Electronic Manufacturing,Manufacturing,$10+ billion (USD),35.0,47.5,70,95,82.5,Flex, TX,51,1,0,0,1,0,1
-Scientist,$70K-$95K (Glassdoor est.),"ArsenalBio’s mission is to develop efficacious and safe cellular therapies for patients with chronic diseases, initially cancer. Our products are being designed to herald the transition of adoptive cell therapy from a hospital based treatment to outpatient therapy, like most other cancer treatments. Our people are our greatest asset, they bring scientific talents in molecular biology, immunology, pharmacology, protein chemistry, computational biology, automation, genome engineering, software and other fields to make the future happen now.
+Email Address: chiefprivacyofficer@flex.com",3.8,"Austin, TX",10000+ ,1969,Company - Public,Electrical & Electronic Manufacturing,Manufacturing,$10+ billion (USD),35.0,47.5,70,95,82.5,Flex, TX,51,1,0,0,1,0,1
+Scientist,"ArsenalBio’s mission is to develop efficacious and safe cellular therapies for patients with chronic diseases, initially cancer. Our products are being designed to herald the transition of adoptive cell therapy from a hospital based treatment to outpatient therapy, like most other cancer treatments. Our people are our greatest asset, they bring scientific talents in molecular biology, immunology, pharmacology, protein chemistry, computational biology, automation, genome engineering, software and other fields to make the future happen now.
 
 We are seeking an outstanding Scientist to lead research efforts in areas of immunology that are key to understanding cancer immunity, including T cell and NK cell biology, as well as components of the tumor microenvironment. Strongest consideration will be given to candidates with demonstrated expertise in molecular or synthetic immunology and whose research interests are relevant to the problem of T cell development, mechanisms of immunosuppression, and next generation adoptive cell therapies. The successful candidate is expected to effectively lead cross-functional teams
 What You Will Do:
@@ -3387,9 +3316,8 @@ Ability to manage an independent research program and to lead a cross-functional
 Outstanding written and oral communication skills and the ability to organize and communicate complex data sets in a clear and concise manner to key stakeholders from diverse backgrounds are essential
 We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status
 
-To all recruitment agencies: ArsenalBio does not accept agency resumes. Please do not forward resumes to our jobs alias, or Arsenalbio employees. ArsenalBio is not responsible for any fees related to unsolicited resumes.",5.0,"Arsenal Biosciences
-5.0","South San Francisco, CA",51 - 200 ,2019,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,35.0,47.5,70,95,82.5,Arsenal Biosciences, CA,1,0,0,0,0,0,0
-Food Scientist,$70K-$95K (Glassdoor est.),"Location:
+To all recruitment agencies: ArsenalBio does not accept agency resumes. Please do not forward resumes to our jobs alias, or Arsenalbio employees. ArsenalBio is not responsible for any fees related to unsolicited resumes.",5.0,"South San Francisco, CA",51 - 200 ,2019,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,35.0,47.5,70,95,82.5,Arsenal Biosciences, CA,1,0,0,0,0,0,0
+Food Scientist,"Location:
 Marlborough, Massachusetts, US
 Job Category:
 General/Other: R&D/Science, New Product R&D
@@ -3434,9 +3362,8 @@ New Search
 
 Didn't find what you were looking for?
 
-FacebookTwitterEmailShare",3.8,"Ken's Foods
-3.8","Marlborough, MA",1001 - 5000 ,1958,Company - Private,Food & Beverage Manufacturing,Manufacturing,Unknown / Non-Applicable,35.0,47.5,70,95,82.5,Ken's Foods, MA,62,0,0,0,0,0,0
-Senior Research Statistician- Data Scientist,$70K-$95K (Glassdoor est.),"Acuity is seeking a Senior Research Statistician- Data Scientist to use statistical knowledge and research skills to solve business problems. The Research Statistician will develop, implement, and interpret statistical models with a strong emphasis on data mining and statistical/predictive modeling. Provides work direction.
+FacebookTwitterEmailShare",3.8,"Marlborough, MA",1001 - 5000 ,1958,Company - Private,Food & Beverage Manufacturing,Manufacturing,Unknown / Non-Applicable,35.0,47.5,70,95,82.5,Ken's Foods, MA,62,0,0,0,0,0,0
+Senior Research Statistician- Data Scientist,"Acuity is seeking a Senior Research Statistician- Data Scientist to use statistical knowledge and research skills to solve business problems. The Research Statistician will develop, implement, and interpret statistical models with a strong emphasis on data mining and statistical/predictive modeling. Provides work direction.
 ESSENTIAL FUNCTIONS:
 Identifies and acquires additional data sources, both internal and external, that can be used to enhance analyses.
 Lead the development of analytical models to drive superior business outcomes.
@@ -3458,9 +3385,8 @@ Strong interpersonal, quantitative, problem-solving, computer and conceptual ski
 Aptitude in predictive modeling, multivariate analysis, statistical modeling, data mining techniques and mathematical statistics.
 Ability to apply strong programming and data management skills.
 Knowledge of and experience with at least one major computer programming language or advanced syntax in a major statistical package.
-This job is classified as exempt.",4.9,"Acuity Insurance
-4.9","Sheboygan, WI",1001 - 5000 ,1925,Company - Private,Insurance Carriers,Insurance,$1 to $2 billion (USD),35.0,47.5,70,95,82.5,Acuity Insurance, WI,95,0,0,0,0,0,0
-Population Health Data Analyst,$70K-$95K (Glassdoor est.),"Job Summary
+This job is classified as exempt.",4.9,"Sheboygan, WI",1001 - 5000 ,1925,Company - Private,Insurance Carriers,Insurance,$1 to $2 billion (USD),35.0,47.5,70,95,82.5,Acuity Insurance, WI,95,0,0,0,0,0,0
+Population Health Data Analyst,"Job Summary
 
 The Healthcare Intelligence Analyst employs advanced analytics to gain critical insights into member health drivers, product/program concepts and value propositions, operational effectiveness and efficiencies, member specific health gaps and needs. This position is responsible for obtaining data from various sources, understanding relevant differences between each data source and creating database structures and reports for analysis and possible production reporting. The Healthcare Intelligence Analyst provides analytics to support Blue Cross Blue Shield of North Dakota’s (BCBSND) initiatives around population health management, health care cost transformation and value-based programs.
 
@@ -3521,9 +3447,8 @@ Equal Opportunity Employer of Minorities, Females, Protected Veterans and Indivi
 
 For questions, please emailcareers@bcbsnd.com
 
-This job posting will be closed 9/28/2020 at 8:00AM CST. No further applications will be considered.",2.9,"Blue Cross Blue Shield of North Dakota
-2.9","Fargo, ND",501 - 1000 ,1940,Company - Private,Insurance Carriers,Insurance,Less than $1 million (USD),35.0,47.5,70,95,82.5,Blue Cross Blue Shield of North Dakota, ND,80,0,0,0,0,0,0
-Sr. DATA SCIENTIST,$70K-$95K (Glassdoor est.),"Title: Sr. Data Scientist
+This job posting will be closed 9/28/2020 at 8:00AM CST. No further applications will be considered.",2.9,"Fargo, ND",501 - 1000 ,1940,Company - Private,Insurance Carriers,Insurance,Less than $1 million (USD),35.0,47.5,70,95,82.5,Blue Cross Blue Shield of North Dakota, ND,80,0,0,0,0,0,0
+Sr. DATA SCIENTIST,"Title: Sr. Data Scientist
 
 Company: Samsung Research America (SRA)
 
@@ -3558,9 +3483,8 @@ Preferred Qualifications:
 BS, MS or PhD in Computer Science, Engineering or a related technical field
 Strong communication and inter-personal skills
 Experience with leading large-scale multi-engineer projects
-Samsung is an EEO/Veterans/Disabled/LGBT employer. We welcome and encourage diversity as we strive to create an inclusive workplace.",3.7,"Samsung Research America
-3.7","Mountain View, CA",1001 - 5000 ,1988,Subsidiary or Business Segment,Computer Hardware & Software,Information Technology,$50 to $100 million (USD),35.0,47.5,70,95,82.5,Samsung Research America, CA,32,1,0,1,1,0,0
-Data Analyst,$70K-$95K (Glassdoor est.),"Healthgrades is focused on providing trusted information that allows consumers and providers to make meaningful connections. As a Data Analyst focused on our Physician Relationship Management platform your primary areas of responsibility and accountability will be:
+Samsung is an EEO/Veterans/Disabled/LGBT employer. We welcome and encourage diversity as we strive to create an inclusive workplace.",3.7,"Mountain View, CA",1001 - 5000 ,1988,Subsidiary or Business Segment,Computer Hardware & Software,Information Technology,$50 to $100 million (USD),35.0,47.5,70,95,82.5,Samsung Research America, CA,32,1,0,1,1,0,0
+Data Analyst,"Healthgrades is focused on providing trusted information that allows consumers and providers to make meaningful connections. As a Data Analyst focused on our Physician Relationship Management platform your primary areas of responsibility and accountability will be:
 Data Querying and Data Management
 Generating Data Driven Reports and Applications
 Organizing and Reporting Results to Stakeholders
@@ -3584,9 +3508,8 @@ At Healthgrades, we recognize that our people drive our greatest achievements. W
 Impactful Work empowering consumers with data to make the right decisions for themselves and their families
 Changing the Game evolving culture with career advancement opportunities
 Community Builders collaborating with local charity and wellness initiatives
-Robust Perks generous PTO, 401k contributions, tuition assistance, entertainment discounts and more!",2.9,"Healthgrades
-2.9","Denver, CO",501 - 1000 ,1998,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,35.0,47.5,70,95,82.5,Healthgrades, CO,22,0,0,0,0,0,0
-Senior Analyst/Data Scientist,$70K-$95K (Glassdoor est.),"At Edmunds were driven to make car buying easier. Ever since we began publishing printed car guides in the 60s, the company has been in the business of trust, innovating ways to empower and support car shoppers. When Edmunds launched the car industrys first Internet site in 1994, we established a leadership position online and have never looked back. Now, as one of the most trusted review sites on the Internet, millions of visitors use our research, shopping and buying tools every month to make an easy and informed decision on their next car. For consumers, we bring peace of mind. For dealers, we make tools to help them solve their problems and sell more cars. How do we do it, you ask? The key ingredients are our enthusiastic employees, progressive company culture and cutting-edge technology. Want to join the team? Read on to find out how!
+Robust Perks generous PTO, 401k contributions, tuition assistance, entertainment discounts and more!",2.9,"Denver, CO",501 - 1000 ,1998,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,35.0,47.5,70,95,82.5,Healthgrades, CO,22,0,0,0,0,0,0
+Senior Analyst/Data Scientist,"At Edmunds were driven to make car buying easier. Ever since we began publishing printed car guides in the 60s, the company has been in the business of trust, innovating ways to empower and support car shoppers. When Edmunds launched the car industrys first Internet site in 1994, we established a leadership position online and have never looked back. Now, as one of the most trusted review sites on the Internet, millions of visitors use our research, shopping and buying tools every month to make an easy and informed decision on their next car. For consumers, we bring peace of mind. For dealers, we make tools to help them solve their problems and sell more cars. How do we do it, you ask? The key ingredients are our enthusiastic employees, progressive company culture and cutting-edge technology. Want to join the team? Read on to find out how!
 
 What Youre Applying For:
 
@@ -3626,9 +3549,8 @@ Employees think its a pretty great place to work and some pretty impressive publ
 
 Edmunds will consider for employment qualified candidates with criminal histories in a manner consistent with the requirements of all applicable laws.
 
-*LI-POST",3.6,"Edmunds.com
-3.6","Santa Monica, CA",501 - 1000 ,1966,Company - Private,Internet,Information Technology,$100 to $500 million (USD),35.0,47.5,70,95,82.5,Edmunds.com, CA,54,1,0,0,1,0,0
-Data Analyst,$70K-$95K (Glassdoor est.),"At TrialCard, our passion is success - success for clients, success for us. You’ll notice who comes first. We’re committed to providing solutions, through innovation and unparalleled customer support, to the pharmaceutical industry to improve access and affordability of their medicines to patients. We work tirelessly on the behalf of our clients, because when they succeed, so do we.
+*LI-POST",3.6,"Santa Monica, CA",501 - 1000 ,1966,Company - Private,Internet,Information Technology,$100 to $500 million (USD),35.0,47.5,70,95,82.5,Edmunds.com, CA,54,1,0,0,1,0,0
+Data Analyst,"At TrialCard, our passion is success - success for clients, success for us. You’ll notice who comes first. We’re committed to providing solutions, through innovation and unparalleled customer support, to the pharmaceutical industry to improve access and affordability of their medicines to patients. We work tirelessly on the behalf of our clients, because when they succeed, so do we.
 The Data Analyst will support internal stakeholders through the aggregation of data for reporting and analytical purposes. The candidate must have the ability to manipulate and normalize data in a way that helps support accurate reporting and foster operational standardization. The Data Analyst will also work cross-functionally to gather and translate requirements across business units creating synergies and developing efficiencies.
 The candidate must be an excellent communicator (both orally and written) and be able to effectively foster interactive collaboration and discussions among clients and internal TrialCard teams. The Data Analyst must be able to present analyses and conclusions in a logical and clear manner and must be able to effectively work as part of a team.
 
@@ -3655,9 +3577,8 @@ Understanding of dimensional data modeling concepts, as well as data warehousing
 Experience designing and implementing enterprise business intelligence solutions using Microstrategy, Microsoft SSRS or similar highly desirable.
 Knowledge of the pharmaceutical industry highly desirable.
 Knowledge of direct marketing highly desirable.
-Experience in the healthcare industry is highly desirable.",3.3,"TrialCard
-3.3","Morrisville, NC",1001 - 5000 ,2001,Company - Private,Advertising & Marketing,Business Services,$50 to $100 million (USD),35.0,47.5,70,95,82.5,TrialCard, NC,19,0,0,0,0,0,0
-"Data Scientist, Health Economics & Advanced Analytics",$70K-$95K (Glassdoor est.),"Overview
+Experience in the healthcare industry is highly desirable.",3.3,"Morrisville, NC",1001 - 5000 ,2001,Company - Private,Advertising & Marketing,Business Services,$50 to $100 million (USD),35.0,47.5,70,95,82.5,TrialCard, NC,19,0,0,0,0,0,0
+"Data Scientist, Health Economics & Advanced Analytics","Overview
 
 
 Avalere Health is seeking a Data Scientist to join our Health Economics & Advanced Analytics (HEAA) Practice. The HEAA practice works with life sciences companies and other healthcare sectors to quantify and communicate the real-world value of healthcare interventions and to align our clients’ business strategies with the evidentiary demands of an increasingly value-driven marketplace. We are driven by deep subject matter expertise, differentiated and proprietary real-world data assets, and an emphasis on sound business strategy coupled with rigorous research and advanced analytic capabilities. The data scientist will serve at the Research Scientist II level and lead and participate in the conceptualization, execution, and delivery of analyses in health economics, comparative effectiveness, performance measure development and testing, outcomes research, and epidemiology.
@@ -3693,9 +3614,8 @@ Excellent writing, project management, communication, and presentation skills
 Ability to independently manage multiple work streams with limited supervision
 Demonstrated problem solving, analytical reasoning, and decision-making skills and strong commitment to meeting goals and deadlines
 Excellent teamwork skills and ability to work in a fast-paced, multi-disciplinary environment
-Self-motivated with a positive, flexible attitude",3.2,"Avalere Health
-3.2","Washington, DC",201 - 500 ,2000,Company - Public,Consulting,Business Services,Less than $1 million (USD),35.0,47.5,70,95,82.5,Avalere Health, DC,20,1,0,0,0,0,0
-Principal Data Scientist,$75K-$121K (Glassdoor est.),"Technology. Flexibility. Diversity. At the center of it all are the Digital Accelerator and Advanced Analytics teams at Cummins, working together as a high-energy startup within a Fortune 500 organization. At this Midwestern technology hub, today’s sharpest, most curious minds transform what-ifs into realities.
+Self-motivated with a positive, flexible attitude",3.2,"Washington, DC",201 - 500 ,2000,Company - Public,Consulting,Business Services,Less than $1 million (USD),35.0,47.5,70,95,82.5,Avalere Health, DC,20,1,0,0,0,0,0
+Principal Data Scientist,"Technology. Flexibility. Diversity. At the center of it all are the Digital Accelerator and Advanced Analytics teams at Cummins, working together as a high-energy startup within a Fortune 500 organization. At this Midwestern technology hub, today’s sharpest, most curious minds transform what-ifs into realities.
 
 #LifeAtCummins is about POWERING YOUR POTENTIAL . You’ll have global opportunities to develop your career and make your community a better place - to break ground professionally and be your best personally.
 
@@ -3781,9 +3701,8 @@ Recruitment Job Type Exempt - Experienced
 Job Posting
 Mar 6, 2020, 6:17:23 PM
 Unposting Date
-Ongoing",3.8,"Cummins Inc.
-3.8","Columbus, IN",10000+ ,1919,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),37.5,60.5,75,121,98.0,Cummins Inc., IN,101,0,0,0,0,0,0
-"Computational Biologist / Data Scientist, Oncology",$75K-$121K (Glassdoor est.),"15-Sep-2020
+Ongoing",3.8,"Columbus, IN",10000+ ,1919,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$10+ billion (USD),37.5,60.5,75,121,98.0,Cummins Inc., IN,101,0,0,0,0,0,0
+"Computational Biologist / Data Scientist, Oncology","15-Sep-2020
 
 Job ID
 302852BR
@@ -3799,9 +3718,8 @@ We are seeking a highly motivated bioinformatics scientist to perform analysis o
 •Communicating key findings and biological context to clinical trial teams
 
 Posting Title
-Computational Biologist / Data Scientist, Oncology",4.0,"Novartis
-4.0","Cambridge, MA",10000+ ,1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),37.5,60.5,75,121,98.0,Novartis, MA,24,0,0,0,0,0,0
-Marketing Data Analyst,$75K-$121K (Glassdoor est.),"Overview:
+Computational Biologist / Data Scientist, Oncology",4.0,"Cambridge, MA",10000+ ,1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),37.5,60.5,75,121,98.0,Novartis, MA,24,0,0,0,0,0,0
+Marketing Data Analyst,"Overview:
 Can you work in a relationship with other people where it requires ongoing flexibility?
 Do you have an upbeat, positive attitude?
 Do you take pride in knowing you are helping to make things happen?
@@ -3836,9 +3754,8 @@ Must be eligible for membership at Idaho Central Credit Union to obtain employme
 
 EOE/Minorities/Females/Vet/Disability
 
-Idaho Central Credit Union is a dynamic financial institution that is focused on helping our members achieve financial success. Established in 1940 we have become the largest and fastest growing financial institution in the state of Idaho. ICCU was voted for large companies the Best Place to work in Idaho. We have also been named by S&P Global Market Intelligence as the top performing credit union in the nation. We are a talent based organization looking for talented individuals to help our members achieve financial success.",4.2,"Idaho Central Credit Union
-4.2","Chubbuck, ID",1001 - 5000 ,1940,Nonprofit Organization,Banks & Credit Unions,Finance,$50 to $100 million (USD),37.5,60.5,75,121,98.0,Idaho Central Credit Union, ID,80,0,0,0,0,0,0
-Business Intelligence Analyst,$75K-$121K (Glassdoor est.),"Join a small, dynamic data-warehouse (DWH) team responsible for providing detailed documentation for the development of the company’s Data Warehouse. This position is not just a technical position, but a marketing/consumer/business person with strong analytical skill set. Must be hands on in this analytical role, with strong SQL skillset.
+Idaho Central Credit Union is a dynamic financial institution that is focused on helping our members achieve financial success. Established in 1940 we have become the largest and fastest growing financial institution in the state of Idaho. ICCU was voted for large companies the Best Place to work in Idaho. We have also been named by S&P Global Market Intelligence as the top performing credit union in the nation. We are a talent based organization looking for talented individuals to help our members achieve financial success.",4.2,"Chubbuck, ID",1001 - 5000 ,1940,Nonprofit Organization,Banks & Credit Unions,Finance,$50 to $100 million (USD),37.5,60.5,75,121,98.0,Idaho Central Credit Union, ID,80,0,0,0,0,0,0
+Business Intelligence Analyst,"Join a small, dynamic data-warehouse (DWH) team responsible for providing detailed documentation for the development of the company’s Data Warehouse. This position is not just a technical position, but a marketing/consumer/business person with strong analytical skill set. Must be hands on in this analytical role, with strong SQL skillset.
 
 · Experience with use of data warehouse tables and operational data, to effectively write and modify SQL queries of moderate to difficult complexity.
 
@@ -3913,9 +3830,8 @@ Benefit Conditions:
 Waiting period may apply
 Only full-time employees eligible
 Work Remotely:
-Temporarily due to COVID-19",2.2,"AmeriMark Direct
-2.2","Cleveland, OH",201 - 500 ,-1,Company - Public,Other Retail Stores,Retail,Unknown / Non-Applicable,37.5,60.5,75,121,98.0,AmeriMark Direct, OH,-1,0,0,0,0,0,0
-Electromagnetics Scientist,$75K-$121K (Glassdoor est.),"Riverside Research has an immediate opening in the Beavercreek, Ohio area for an Electromagnetics Scientist. The candidate will perform modeling analysis of EM interactions with various materials in defined configurations.
+Temporarily due to COVID-19",2.2,"Cleveland, OH",201 - 500 ,-1,Company - Public,Other Retail Stores,Retail,Unknown / Non-Applicable,37.5,60.5,75,121,98.0,AmeriMark Direct, OH,-1,0,0,0,0,0,0
+Electromagnetics Scientist,"Riverside Research has an immediate opening in the Beavercreek, Ohio area for an Electromagnetics Scientist. The candidate will perform modeling analysis of EM interactions with various materials in defined configurations.
 
 All Riverside Research opportunities require U.S. citizenship.
 
@@ -3952,9 +3868,8 @@ All positions at Riverside Research are subject to background investigations. Em
 
 This contractor and subcontractor shall abide by the requirements of 41 CFR 60-741.5(a). This regulation prohibits discrimination against qualified individuals on the basis of disability, and requires affirmative action by covered prime contractors and subcontractors to employ and advance in employment qualified individuals with disabilities.
 
-This contractor and subcontractor shall abide by the requirements of 41 CFR 60-300.5(a). This regulation prohibits discrimination against qualified protected veterans, and requires affirmative action by covered contractors and subcontractors to employ and advance in employment qualified protected veterans.",3.4,"Riverside Research
-3.4","Wright Patterson AFB, OH",501 - 1000 ,1967,Nonprofit Organization,Federal Agencies,Government,$50 to $100 million (USD),37.5,60.5,75,121,98.0,Riverside Research, OH,53,1,0,0,0,1,0
-Bioinformatics Scientist,$75K-$121K (Glassdoor est.),"Job Description: *
+This contractor and subcontractor shall abide by the requirements of 41 CFR 60-300.5(a). This regulation prohibits discrimination against qualified protected veterans, and requires affirmative action by covered contractors and subcontractors to employ and advance in employment qualified protected veterans.",3.4,"Wright Patterson AFB, OH",501 - 1000 ,1967,Nonprofit Organization,Federal Agencies,Government,$50 to $100 million (USD),37.5,60.5,75,121,98.0,Riverside Research, OH,53,1,0,0,0,1,0
+Bioinformatics Scientist,"Job Description: *
 The successful candidate will develop bioinformatics pipelines and analysis software to support clinical assays. As part of this role the candidate will collaborate with staff from the clinical laboratory, research & development and IT/Engineering. Scientist will provide data analysis support for the R&D group during assay development. He/She will be called upon to analyze problems, and provide algorithmic solutions. Candidate will continually evaluate new open source and commercial bioinformatics software, to identify the best solutions for the lab. The bioinformatics scientist will collect user requirements and specifications from various groups. Candidate must have experience in good software documentation practices, included the process of developing documentation to execute installation qualifications, performance qualifications, and operational qualifications. This position will be responsible for training laboratory staff, and in maintaining the bioinformatics pipelines in the production environment. Candidate will stay apprised of relevant bioinformatics literature.
 Requirements: *
 Experience developing NGS analysis pipelines for a CLIA/CAP approved laboratory.
@@ -3986,8 +3901,8 @@ Innovative -- innovative and risk-taking
 Team-oriented -- cooperative and collaborative
 Benefit Conditions:
 Waiting period may apply
-Only full-time employees eligible",-1.0,OME Wellness,"San Diego, CA",-1,-1,-1,-1,-1,-1,37.5,60.5,75,121,98.0,OME Wellness, CA,-1,1,0,0,1,0,0
-DATA SCIENTIST,$75K-$121K (Glassdoor est.),"JOB SUMMARY
+Only full-time employees eligible",-1.0,"San Diego, CA",-1,-1,-1,-1,-1,-1,37.5,60.5,75,121,98.0,OME Wellness, CA,-1,1,0,0,1,0,0
+DATA SCIENTIST,"JOB SUMMARY
 
 The position will focus on building products to democratize machine learning and consequently improve the cost and quality of patient care. This position involves development of tools that accelerate analytics and machine learning for the organization. Developing models that encompass all aspects of hospital operations, including clinical, operational, and financial data. Also responsible for teaching data analysts and software engineers how to work effectively with vast quantities of data
 This position requires full understanding and active participation in fulfilling the Mission of Blessing Health System. It is expected that the employee demonstrate behavior consistent with the Core Values while supporting the strategic plan, goals and direction of the Performance Improvement Process (PIP) at Blessing Health System.
@@ -4015,9 +3930,8 @@ Blessing Health System expressly prohibits any form of workplace harassment base
 19437
 
 Location: Blessing Hospital · DECISION SUPPORT
-Schedule: Full-Time, Days, Monday-Friday, 8:00am-5:00pm, 40 hours weekly",3.8,"Blessing Hospital
-3.8","Quincy, IL",1001 - 5000 ,1875,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),37.5,60.5,75,121,98.0,Blessing Hospital, IL,145,1,0,0,1,1,0
-Decision Scientist 3,$75K-$121K (Glassdoor est.),"Primary Job Responsibilities
+Schedule: Full-Time, Days, Monday-Friday, 8:00am-5:00pm, 40 hours weekly",3.8,"Quincy, IL",1001 - 5000 ,1875,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),37.5,60.5,75,121,98.0,Blessing Hospital, IL,145,1,0,0,1,1,0
+Decision Scientist 3,"Primary Job Responsibilities
 PayPal Credit is the simple, flexible credit line built into your PayPal account. The PayPal Credit Risk Organization is responsible for managing the risk throughout the lifecycle of PayPal’s Credit products. This is an exciting, fast paced organization where the contribution by team members can significantly impact PayPal’s bottom line as well as our customers’ experience. We’re looking for an Analyst to join the team and help in our efforts to manage PayPal Credit risk globally.
 
 You will lead the design and execution of safer experiences for our users, and will work on the complex task of keeping fraudsters away from PayPal Credit. If you’re looking to make an impact at the red-hot intersection of ePayments, consumer lending and online risk management, you’re at the right place.
@@ -4072,9 +3986,8 @@ Who we are: Fueled by a fundamental belief that having access to financial servi
 
 We're a purpose-driven company whose beliefs are the foundation for how we conduct business every day. We hold ourselves to our One Team Behaviors which demand that we hold the highest ethical standards, to empower an open and diverse workplace, and strive to treat everyone who is touched by our business with dignity and respect. Our employees challenge the status quo, ask questions, and find solutions. We want to break down barriers to financial empowerment. Join us as we change the way the world defines financial freedom.
 
-PayPal provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, PayPal will provide reasonable accommodations for qualified individuals with disabilities.",3.9,"PayPal
-3.9","San Jose, CA",10000+ ,1998,Company - Public,Internet,Information Technology,$10+ billion (USD),37.5,60.5,75,121,98.0,PayPal, CA,22,1,0,0,0,0,0
-Data Scientist,$75K-$121K (Glassdoor est.),"Job Description:
+PayPal provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, PayPal will provide reasonable accommodations for qualified individuals with disabilities.",3.9,"San Jose, CA",10000+ ,1998,Company - Public,Internet,Information Technology,$10+ billion (USD),37.5,60.5,75,121,98.0,PayPal, CA,22,1,0,0,0,0,0
+Data Scientist,"Job Description:
 
 Metron is seeking talented Data Scientists for a Data Science Support effort. You will be working directly with a government team to design, implement and analyze the results of data science solutions to the client’s machine learning and data mining problems. The ideal candidate will be a self-starter that enjoys working in teams and grappling with data problems from identifying data requirements to implementing analytics and machine learning solutions.
 
@@ -4094,9 +4007,8 @@ Position Location: Reston, VA
 
 All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, or protected veteran status. Metron takes affirmative action in support of its policy to employ and advance in employment individuals who are minorities, women, protected veterans, and individuals with disabilities.
 
-VEVRAA Federal Contractor",3.0,"Metron, Inc.
-3.0","Reston, VA",51 - 200 ,-1,Company - Private,Electrical & Electronic Manufacturing,Manufacturing,$25 to $50 million (USD),37.5,60.5,75,121,98.0,"Metron, Inc.", VA,-1,1,0,0,0,0,0
-Data Analyst,$75K-$121K (Glassdoor est.),"ExactCare helps people with chronic conditions and multiple medications overcome daily challenges to living healthier at home. Our solutions include at-home clinical pharmacy support and an easier, safer way to manage medications.
+VEVRAA Federal Contractor",3.0,"Reston, VA",51 - 200 ,-1,Company - Private,Electrical & Electronic Manufacturing,Manufacturing,$25 to $50 million (USD),37.5,60.5,75,121,98.0,"Metron, Inc.", VA,-1,1,0,0,0,0,0
+Data Analyst,"ExactCare helps people with chronic conditions and multiple medications overcome daily challenges to living healthier at home. Our solutions include at-home clinical pharmacy support and an easier, safer way to manage medications.
 
 Job Details:
 
@@ -4134,9 +4046,8 @@ Continuous Integration/Continuous Delivery
 GitHub and/or Azure DevOps
 Salesforce CRM data experience
 
-ExactCare provides equal employment opportunity to all qualified applicants regardless of race, color, religion, national origin, sex, sexual orientation, gender identity, age, disability, genetic information, or veteran status, or other legally protected classification in the state in which a person is seeking employment. Applicants encouraged to confidentially self-identify when applying. Local applicants encouraged to apply. Drug-free work environment. Must be eligible to work in this country.",3.4,"ExactCare Pharmacy
-3.4","Cleveland, OH",201 - 500 ,2009,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,37.5,60.5,75,121,98.0,ExactCare Pharmacy, OH,11,1,0,0,0,0,0
-Data Scientist,$75K-$121K (Glassdoor est.),"STRATACACHE provides salable customer experiences, empowering retailers to learn deeply about their customers’ shopping preferences and behaviors, allowing for personalized shopper interaction. Our solutions deliver consumer activation at the point-of-decision, generating new sales opportunities and enhanced retail profitability. With 3 million+ software activations globally, we power the biggest digital networks for the world’s largest brands. Across the STRATACACHE family of complementary digital media/ad tech solution companies, we have the technology, expertise and track record to bring retail innovation that delivers results.
+ExactCare provides equal employment opportunity to all qualified applicants regardless of race, color, religion, national origin, sex, sexual orientation, gender identity, age, disability, genetic information, or veteran status, or other legally protected classification in the state in which a person is seeking employment. Applicants encouraged to confidentially self-identify when applying. Local applicants encouraged to apply. Drug-free work environment. Must be eligible to work in this country.",3.4,"Cleveland, OH",201 - 500 ,2009,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,37.5,60.5,75,121,98.0,ExactCare Pharmacy, OH,11,1,0,0,0,0,0
+Data Scientist,"STRATACACHE provides salable customer experiences, empowering retailers to learn deeply about their customers’ shopping preferences and behaviors, allowing for personalized shopper interaction. Our solutions deliver consumer activation at the point-of-decision, generating new sales opportunities and enhanced retail profitability. With 3 million+ software activations globally, we power the biggest digital networks for the world’s largest brands. Across the STRATACACHE family of complementary digital media/ad tech solution companies, we have the technology, expertise and track record to bring retail innovation that delivers results.
 
 Learn more about the STRATACACHE family at www.stratacache.com.
 
@@ -4198,9 +4109,8 @@ STRATACACHE and its family of companies provides equal employment opportunities 
 
 While we are excited and appreciate you interest in our opportunities, please keep in mind that we are not able to contact all applicants that have applied.
 
-No vendor/agency solicitation please.",3.5,"STRATACACHE
-3.5","Dayton, OH",201 - 500 ,1999,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),37.5,60.5,75,121,98.0,STRATACACHE, OH,21,1,0,0,0,0,1
-Junior Data Scientist,$75K-$121K (Glassdoor est.),"What Great Looks Like In This Role
+No vendor/agency solicitation please.",3.5,"Dayton, OH",201 - 500 ,1999,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),37.5,60.5,75,121,98.0,STRATACACHE, OH,21,1,0,0,0,0,1
+Junior Data Scientist,"What Great Looks Like In This Role
 
 Our ideal teammate is someone who is a continuous learner who can adapt and thrive in complex, uncertain and changing situations. Someone who enjoys tackling complex tasks in a collaborative environment is well-suited to a position on our team. Self-motivated individuals comfortable working in a challenging, fast paced, technical environment are highly encouraged to apply!
 
@@ -4269,9 +4179,8 @@ Our employees are the embodiment of the idea that we all are stronger and better
 
 Americas Best Employer for Diversity Forbes (2019)
 Score of 100 on the Human Rights Campaign Corporate Equality Index (2019)
-National Association for Female Executives Top Company for Executive Women (2018) Disability Equality Index (DEI) Best Place to Work for Disability Inclusion (2019) Diversity Best Practices Inclusion Index Company (2018)",3.7,"MassMutual
-3.7","Amherst, MA",5001 - 10000 ,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),37.5,60.5,75,121,98.0,MassMutual, MA,169,1,0,0,0,0,0
-V&S Business Data Analyst,$75K-$121K (Glassdoor est.),"Sony Electronics, Inc. look for the risk-takers, the collaborators, the inspired and the inspirational. We want the people who are brave enough to work at the cutting edge and create solutions that will enrich and improve the lives of people across the globe. So, if you want to make the world say wow, let's talk.
+National Association for Female Executives Top Company for Executive Women (2018) Disability Equality Index (DEI) Best Place to Work for Disability Inclusion (2019) Diversity Best Practices Inclusion Index Company (2018)",3.7,"Amherst, MA",5001 - 10000 ,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),37.5,60.5,75,121,98.0,MassMutual, MA,169,1,0,0,0,0,0
+V&S Business Data Analyst,"Sony Electronics, Inc. look for the risk-takers, the collaborators, the inspired and the inspirational. We want the people who are brave enough to work at the cutting edge and create solutions that will enrich and improve the lives of people across the globe. So, if you want to make the world say wow, let's talk.
 
 Description
 The data analyst will ensure accurate, timely and critical business, financial data submission and provide ongoing reporting
@@ -4296,9 +4205,8 @@ Sony Electronics is an Equal Opportunity Employer that values employees with a b
 
 Disability Accommodation for Applicants to Sony Electronics, Inc.
 
-Sony Electronics, Inc. provides reasonable accommodation for qualified individuals with disabilities and disabled veterans in job application procedures. For reasonable accommodation requests, please contact us by email at talenthelp@am.sony.com, or you can mail your resume to: Sony Electronics, Human Resources Department, 16535 Via Esprillo, San Diego CA 92127. Please indicate the position you are applying for.",4.0,"Sony Electronics
-4.0","San Diego, CA",10000+ ,1946,Subsidiary or Business Segment,Consumer Products Manufacturing,Manufacturing,$2 to $5 billion (USD),37.5,60.5,75,121,98.0,Sony Electronics, CA,74,0,0,0,0,0,0
-Business Intelligence Analyst,$75K-$121K (Glassdoor est.),"Blucora has a bold aspiration: we are committed to giving all people the tools needed to lead healthy financial lives - tools often reserved for the wealthy.
+Sony Electronics, Inc. provides reasonable accommodation for qualified individuals with disabilities and disabled veterans in job application procedures. For reasonable accommodation requests, please contact us by email at talenthelp@am.sony.com, or you can mail your resume to: Sony Electronics, Human Resources Department, 16535 Via Esprillo, San Diego CA 92127. Please indicate the position you are applying for.",4.0,"San Diego, CA",10000+ ,1946,Subsidiary or Business Segment,Consumer Products Manufacturing,Manufacturing,$2 to $5 billion (USD),37.5,60.5,75,121,98.0,Sony Electronics, CA,74,0,0,0,0,0,0
+Business Intelligence Analyst,"Blucora has a bold aspiration: we are committed to giving all people the tools needed to lead healthy financial lives - tools often reserved for the wealthy.
 
 We began our journey by bringing together two industry-leading firms to form a foundation in tax-smart investing that is unreplaceable in the industry. TaxAct is an innovative tax software company that helps more than 4 million Americans prepare their own taxes each year. HD Vest is the first firm in the world to make it possible for tax professionals to support clients’ wealth management needs (now over $45B for more than 300,000 Americans).
 
@@ -4335,9 +4243,8 @@ Comprehensive Benefits
 
 We offer a competitive salary, outstanding benefits package that includes medical, dental, vision, life insurance, paid vacation and sick days, paid holidays, tuition reimbursement, and 401(k) with company match.
 
-Blucora, Inc is an equal opportunity employer and does not unlawfully discriminate on the basis of race, sex, age, color, religion, national origin, marital status, sexual orientation, veteran status, disability status or any other basis prohibited by federal, state or local law. Blucora, Inc considers information gathered in the hiring process, including information on this application, confidential, and only shares it on a need-to know basis or as required by law. Please let us know if you need accommodations in order to participate in the application process.",3.3,"Blucora
-3.3","Dallas, TX",501 - 1000 ,1996,Company - Public,Financial Transaction Processing,Finance,$500 million to $1 billion (USD),37.5,60.5,75,121,98.0,Blucora, TX,24,0,0,0,0,0,0
-Data Analyst,$75K-$121K (Glassdoor est.),"Big Huge Games is looking for a qualified Data Analyst to help provide data insights to our games teams and upcoming BHG titles to assist them in making successful strategic and game direction decisions. This role works closely with our Product and Design teams to structure quantitative questions, gather player data, employ statistical methodology in analysis of the data, and construct insightful reporting and visualizations to communicate those results to the wider team.
+Blucora, Inc is an equal opportunity employer and does not unlawfully discriminate on the basis of race, sex, age, color, religion, national origin, marital status, sexual orientation, veteran status, disability status or any other basis prohibited by federal, state or local law. Blucora, Inc considers information gathered in the hiring process, including information on this application, confidential, and only shares it on a need-to know basis or as required by law. Please let us know if you need accommodations in order to participate in the application process.",3.3,"Dallas, TX",501 - 1000 ,1996,Company - Public,Financial Transaction Processing,Finance,$500 million to $1 billion (USD),37.5,60.5,75,121,98.0,Blucora, TX,24,0,0,0,0,0,0
+Data Analyst,"Big Huge Games is looking for a qualified Data Analyst to help provide data insights to our games teams and upcoming BHG titles to assist them in making successful strategic and game direction decisions. This role works closely with our Product and Design teams to structure quantitative questions, gather player data, employ statistical methodology in analysis of the data, and construct insightful reporting and visualizations to communicate those results to the wider team.
 
 This a full-time position onsite at our studio in Timonium, MD. No telecommuting or remote work options are available.
 Due to the circumstances surrounding COVID19 positions may begin remote before transitioning to onsite.
@@ -4361,9 +4268,8 @@ This a full-time position onsite at our studio in Timonium, MD. No telecommuting
 Due to the circumstances surrounding COVID19 positions may begin remote before transitioning to onsite.
 
 
-Applicants should download DomiNations on iOS or Android and be prepared to discuss the game.",4.9,"Big Huge Games
-4.9","Timonium, MD",51 - 200 ,2013,Subsidiary or Business Segment,Video Games,Media,Unknown / Non-Applicable,37.5,60.5,75,121,98.0,Big Huge Games, MD,7,0,1,0,0,0,0
-Data Scientist BSLEF8,$75K-$121K (Glassdoor est.),"E3/Sentinel’s Homeland Security Enterprise (HSE) division is an integrated organizational entity fostering increased collaboration and synergies across the Homeland domain. HSE combines the skills and talents of over 245 (and growing) E3S employees and subcontractor staff supporting multiple components across DHS, including but not limited to: U.S. Customs and Border Protection (CBP), Transportation Security Administration (TSA), U.S. Immigration and Customs Enforcement (ICE), Federal Emergency Management Agency (FEMA), U.S. Coast Guard (USCG), Science and Technology Directorate (S&T), Countering Weapons of Mass Destruction Office (CWMD), Federal Protective Services (FPS), and the DHS Headquarters Management Directorate. Our team provides rapid, innovative and specialized solutions that enable our HSE clients to success at meeting dynamic mission objectives.
+Applicants should download DomiNations on iOS or Android and be prepared to discuss the game.",4.9,"Timonium, MD",51 - 200 ,2013,Subsidiary or Business Segment,Video Games,Media,Unknown / Non-Applicable,37.5,60.5,75,121,98.0,Big Huge Games, MD,7,0,1,0,0,0,0
+Data Scientist BSLEF8,"E3/Sentinel’s Homeland Security Enterprise (HSE) division is an integrated organizational entity fostering increased collaboration and synergies across the Homeland domain. HSE combines the skills and talents of over 245 (and growing) E3S employees and subcontractor staff supporting multiple components across DHS, including but not limited to: U.S. Customs and Border Protection (CBP), Transportation Security Administration (TSA), U.S. Immigration and Customs Enforcement (ICE), Federal Emergency Management Agency (FEMA), U.S. Coast Guard (USCG), Science and Technology Directorate (S&T), Countering Weapons of Mass Destruction Office (CWMD), Federal Protective Services (FPS), and the DHS Headquarters Management Directorate. Our team provides rapid, innovative and specialized solutions that enable our HSE clients to success at meeting dynamic mission objectives.
 
 Each day U.S. Customs and Border Protection (CBP) oversees the massive flow of people, capital, and products that enter and depart the United States via air, land, sea, and cyberspace. The volume and complexity of both physical and virtual border crossings require the application of “big data” solutions to promote efficient trade and travel. Further, effective “big data” solutions help CBP ensure the movement of people, capital, and products is legal, safe, and secure.
 In response to this challenge, E3/Sentinel, as a trusted mission partner of CBP, seeks capable, qualified, and versatile data scientists to help lead the development and delivery of high-quality predictive modelling solutions. Successful applicants will serve as recognized subject matter experts in the application of quantitative methods, machine learning algorithms, and predictive models to address complex national and homeland security challenges. They will help our team to leverage large structured and unstructured datasets to develop and operationalize models, tools, and applications that drive optimized decision making. Project tasks include data collection, mining, data and text analytics, clustering analysis, pattern recognition and extraction, automated classification and categorization, and entity resolution to implement and enhance automated risk assessment. The products we develop provide actionable insight with real and immediate impact on the safety and security of the United States, its citizens, visitors, and economy.
@@ -4392,9 +4298,8 @@ Experience with pattern recognition and extraction, automated classification, ca
 Experience working in a team and deploying solutions in an iterative or agile/DevOps continuous integration and delivery environment using lifecycle management methods and tools.
 Experience with visualization tools and techniques (e.g., Periscope, Business Objects, D3, ggplot, Tableau, SAS Visual Analytics, PowerBI).
 
-E3/Sentinel is an equal opportunity employer and Vietnam Era Veterans Readjustment Assistance Act (VEVRAA) federal contractor. All qualified applicants receive consideration for employment without regard to race, color, religion, gender, national origin, age, sexual orientation, gender identity, protected veteran status, or status as a qualified individual with a disability. E3/Sentinel hires and promotes individuals solely on the basis of their qualifications for the job to be filled.",4.4,"E3 Federal Solutions
-4.4","Alexandria, VA",501 - 1000 ,2004,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,37.5,60.5,75,121,98.0,E3 Federal Solutions, VA,16,1,0,1,0,0,1
-"Data Scientist, Machine Learning",$75K-$121K (Glassdoor est.),"Job Description
+E3/Sentinel is an equal opportunity employer and Vietnam Era Veterans Readjustment Assistance Act (VEVRAA) federal contractor. All qualified applicants receive consideration for employment without regard to race, color, religion, gender, national origin, age, sexual orientation, gender identity, protected veteran status, or status as a qualified individual with a disability. E3/Sentinel hires and promotes individuals solely on the basis of their qualifications for the job to be filled.",4.4,"Alexandria, VA",501 - 1000 ,2004,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,37.5,60.5,75,121,98.0,E3 Federal Solutions, VA,16,1,0,1,0,0,1
+"Data Scientist, Machine Learning","Job Description
 
 At Shipt, we are transforming the grocery shopping experience and giving time back to consumers. Shipt shoppers handpick fresh groceries and household essentials, then deliver them to your door in as little as one hour.
 
@@ -4426,9 +4331,8 @@ Experience with batch processing framework
 Familiarity with AWS, version control, and peer code review systems
 Familiarity with on-demand and/or multi-sided marketplaces
 Proficiency in both R and Python
-We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",3.6,"Shipt
-3.6","Birmingham, AL",1001 - 5000 ,2014,Subsidiary or Business Segment,Consumer Product Rental,Consumer Services,Unknown / Non-Applicable,37.5,60.5,75,121,98.0,Shipt, AL,6,1,0,0,1,0,0
-"Data Scientist, Cloud Business Operations",$75K-$121K (Glassdoor est.),"53303
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",3.6,"Birmingham, AL",1001 - 5000 ,2014,Subsidiary or Business Segment,Consumer Product Rental,Consumer Services,Unknown / Non-Applicable,37.5,60.5,75,121,98.0,Shipt, AL,6,1,0,0,1,0,0
+"Data Scientist, Cloud Business Operations","53303
 
 About NetApp
 
@@ -4465,9 +4369,8 @@ Nearest Secondary Market: Palo Alto
 Job Segment:
 Operations Manager, Scientific, Database, Cloud, Operations, Engineering, Technology
 
-Apply now »",3.8,"NetApp
-3.8","Sunnyvale, CA",10000+ ,1992,Company - Public,Enterprise Software & Network Solutions,Information Technology,$5 to $10 billion (USD),37.5,60.5,75,121,98.0,NetApp, CA,28,0,0,0,1,0,0
-Data Architect/Scientist,$75K-$121K (Glassdoor est.),"Senior Member of Technical Staff – DATA ARCHITECT / SCIENTIST
+Apply now »",3.8,"Sunnyvale, CA",10000+ ,1992,Company - Public,Enterprise Software & Network Solutions,Information Technology,$5 to $10 billion (USD),37.5,60.5,75,121,98.0,NetApp, CA,28,0,0,0,1,0,0
+Data Architect/Scientist,"Senior Member of Technical Staff – DATA ARCHITECT / SCIENTIST
 US, Home Office
 
 US Citizen or Permanent Resident
@@ -4517,9 +4420,8 @@ Experience with Nifi / Kafka / Postgres / Hadoop / Linux
 Familiarity with Real Time Operating Systems (RTOS)
 Experience in autonomous systems development is a plus
 3+ years of experience of big data analytics
-6+ years working in software development arena",4.1,"Wind River
-4.1","Seattle, WA",1001 - 5000 ,1981,Subsidiary or Business Segment,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),37.5,60.5,75,121,98.0,Wind River, WA,39,1,0,0,0,0,1
-Data Scientist l,$75K-$121K (Glassdoor est.),"Data Scientist l
+6+ years working in software development arena",4.1,"Seattle, WA",1001 - 5000 ,1981,Subsidiary or Business Segment,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),37.5,60.5,75,121,98.0,Wind River, WA,39,1,0,0,0,0,1
+Data Scientist l,"Data Scientist l
 
 Job Details
 Level
@@ -4555,5 +4457,4 @@ Bachelor’s or Master’s degree obtained from an accredited institution prefer
 Strong background in data science, machine learning, and visualization
 Excellent understanding of machine learning techniques and algorithms including classification, clustering, regression, decision tree, random forest, neural networks, deep learning etc.
 Proficient in R, Python, SQL, VBA, Tableau
-Excellent oral and written communication skills",3.8,"GNY Insurance Companies
-3.8","New York, NY",201 - 500 ,1914,Company - Private,Insurance Carriers,Insurance,$100 to $500 million (USD),37.5,60.5,75,121,98.0,GNY Insurance Companies, NY,106,1,0,0,0,0,0
+Excellent oral and written communication skills",3.8,"New York, NY",201 - 500 ,1914,Company - Private,Insurance Carriers,Insurance,$100 to $500 million (USD),37.5,60.5,75,121,98.0,GNY Insurance Companies, NY,106,1,0,0,0,0,0
