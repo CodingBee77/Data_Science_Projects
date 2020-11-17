@@ -67,18 +67,3 @@ Any of other dimensionality reduction algorithm didn't gave comparable results:
 
 
 
-
-
-
-
-
-
-
-
-
-**Quick project overview**
-
-
-
-
-
