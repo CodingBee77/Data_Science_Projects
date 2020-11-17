@@ -34,7 +34,46 @@ regression and random forest regression were lower.
 Surprisingly the randomized PCA in combination with RF achieved high accuracy: 91%.
 For data visualization t-SNE  algorithm gives the best result, most of numbers were separated into clusters, looking
 really well on a plot.
-Any of other dimensionality reduction algorithm didn't gave comparable results.
+
+![](Images_DM/tSNE.PNG)
+
+![](Images_DM/tSNE_numbers.PNG)
+
+Any of other dimensionality reduction algorithm didn't gave comparable results:
+
+- Principal Component Analysis
+
+![](Images_DM/PCA.PNG)
+
+- Locally Linear Embedding
+
+![](Images_DM/LLE.PNG)
+
+- PCA + LLE
+
+![](Images_DM/PCA_LLE.PNG)
+
+- Multi Dimension Scaling (MDS)
+
+![](Images_DM/MDS.PNG)
+
+- PCA + MDS
+
+![](Images_DM/PCA_MDS.PNG)
+
+ - Linear Discriminant Analysis
+ 
+ ![](Images_DM/LDS.PNG)
+
+
+
+
+
+
+
+
+
+
 
 
 **Quick project overview**
