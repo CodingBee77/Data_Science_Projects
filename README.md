@@ -12,8 +12,7 @@ Aim of this project is to classify hair products into 3 categories
     according to PEH balance based on ingredient list.
     
 
-![](Screenshot from 2021-02-17 11-26-06.png)
-
+![](PEH_balance.png)
 
 
 
@@ -24,7 +23,7 @@ Project contains webscrapped data from glassdoor website with salary ranges.
     for future predictions. Min-max salary, company name, job state, and
     encoded skills : everything ready to start building ML model.
     
-![](Screenshot from 2021-02-17 12-53-32.png)
+![](Data_salaries_dataset.png)
 
 
 
