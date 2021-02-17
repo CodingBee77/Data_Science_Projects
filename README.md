@@ -11,7 +11,10 @@ Currently they're classified into below categories:
 Aim of this project is to classify hair products into 3 categories 
     according to PEH balance based on ingredient list.
     
+
 ![](Screenshot from 2021-02-17 11-26-06.png)
+
+
 
 
  2. Webscraping and data cleaning project: **Data_science_salary_predictions**
@@ -23,12 +26,16 @@ Project contains webscrapped data from glassdoor website with salary ranges.
     
 ![](Screenshot from 2021-02-17 12-53-32.png)
 
+
+
  3. Dimensionality reduction techniques comparison - **Dimensionality_reduction**
     
 Used different classification models to achieve the most accurate classifier
     on high dimension dataset. Investigated how dimensionality reduction
     algorithms affect accuracy and learning time and make dataset more
     understandable to the business.
+
+
 
  4. Classification problem with different classifiers and ensemble learning :
     **Ensemble_learning_with_mushroom_dataset**
@@ -41,6 +48,8 @@ Examine feature importance for different algorithms.
 
 
 ![](Ensemble_learning_with_mushroom_dataset/Images/Feature_imp_random_forest.PNG)
+
+
 
 
  5. Classification problem with different accuracy metrics
