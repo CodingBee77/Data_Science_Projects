@@ -21,7 +21,7 @@ The task is to use those features to classify mushrooms into one of the above gr
 
 **Purpose**
 
-Build mushroom classifier with the highest precision using ensemble learning methods.
+Build a mushroom classifier with the highest precision using ensemble learning methods.
 Compare training time for "soft" and "hard" voting affects model accuracy.
 
 
@@ -29,36 +29,36 @@ Compare training time for "soft" and "hard" voting affects model accuracy.
 
 Use different classifiers and their ensembles to recognize poisonous and edible mushrooms
 by their attributes.
-Use different accuracy metrics and classification report to assess classifier accuracy.
+Use different accuracy metrics and classification reports to assess classifier accuracy.
 Examine feature importance for different algorithms.
 
 **Results and conclusions**
 
-Mushroom dataset is really clean and all classifiers reach nearly 100% accuracy. It is rare to get such
-score but possible. Dataset is clean, balanced ( around half of samples belong to each class), data was splitted
-into training and testing dataset and all features encoded.
+The mushroom dataset is really clean and all classifiers reach nearly 100% accuracy. It is rare to get such a
+score but possible. Dataset is clean, balanced ( around half of the samples belong to each class), data was split
+into training and testing dataset, and all features encoded.
 Logistic regression and random forest classifier have the shortest training time: for LR around 0.2 seconds
-and for RF: 0.6 seconds. Hard voting classifier was trained much quicker than "soft" version - it may be caused by 
-additional operation of averaging the probability of belonging to particular classes. But with another model,
+and for RF: 0.6 seconds. The hard voting classifier was trained much quicker than the "soft" version - it may be caused by 
+the additional operation of averaging the probability of belonging to particular classes. But with another model,
 it can achieve higher accuracy.
 Feature importances were investigated for each classifier:
- - for random forest and extra trees the most important features were: odor, gill size, stalk surface above ring,
+ - for random forest and extra trees, the most important features were: odor, gill size, stalk surface above the ring,
  ring type and bruises;
 
 ![](Images/Feature_imp_random_forest.PNG)
 
 ![](Images/Feature_imp_extratrees.PNG)
  
- - for logistic regression: spore print color, odor, gill size and stalk root;
+ - for logistic regression: spore print color, odor, gill size, and stalk root;
  
 ![](Images/Feature_imp_lr.PNG)
 
-- for support vector classifier: spore print color, odor, stalk surface above ring, population and gill size.
+- for support vector classifier: spore print color, odor, stalk surface above the ring, population, and gill size.
 
 ![](Images/Feature_imp_svc.PNG)
 
-For logistic regression and support vector classifier some features play a significant
-role almost equally. For random forest and extra trees feature importance were more diverse.
+For logistic regression and support vector classifier, some features play a significant
+role almost equally. For random forest and extra trees feature importance was more diverse.
 
 
 
