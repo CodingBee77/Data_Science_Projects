@@ -20,38 +20,39 @@ The task is to use those features to classify mushrooms into one of the above gr
 
 **Purpose**
 
-Build mushroom classifier with the highest precision and find the most indicative features.
+Build a mushroom classifier with the highest precision and find the most indicative features.
 
 
 **Selected solution**
 
-Use decision tree classifier to recognize poisonous and edible mushrooms by their attributes.
-Use different accuracy metrics and classification report to assess classifier accuracy.
+Use a decision tree classifier to recognize poisonous and edible mushrooms by their attributes.
+Use different accuracy metrics and classification reports to assess classifier accuracy.
 Try to use hyperparameter tuning to check if accuracy will change.
 
 
 **Results and conclusions**
 
 - Decision tree classifier obtain 99% accuracy and 99% of precision for classifying poisonous and edible mushrooms
-- Metrics were proven by plotting ROC curve and learning curves 
+- Metrics were proven by plotting the ROC curve and learning curves 
 - Hyperparameter tuning with randomized search cv was conducted to evaluate the effect on the model performance
 It doesn’t change accuracy score only took additional time for searching parameter and make new predictions to check accuracy again
-- 2 methods  of calculating accuracy were compared: roc auc score and accuracy score. 
+- 2 methods of calculating accuracy were compared: ROC AUC score and accuracy score. 
 Since the dataset is balanced ( there is so major class ) these 2 results did not differ
-- the most indicative features for classify if mushroom is poisonous are: gill size and gill color.
+- the most indicative features for classifying if a mushroom  is poisonous are gill size and gill color.
 
 
 **Quick project overview**
 
 <details>
 <summary>**Exploratory data analysis**</summary>
+ 
 Due to dataset analyze we found out that around 30% of mushrooms have brown cup color,
  22% - gray and 18% - red.
  
 ![](Images/Mushroom_Cap_color_quantity.png)
 
-Proportion between edible and poisonous mushrooms with brown and gray cap is
-around 50%. Yellow and red caps are more characteristic for poisonous mushrooms (quite intuitive).
+The proportion between edible and poisonous mushrooms with brown and gray caps is
+around 50%. Yellow and red caps are more characteristic of poisonous mushrooms (quite intuitive).
  
  ![](Images/Edible_poisonous_Mushroom_Cap_col.PNG)
 
@@ -67,8 +68,8 @@ Almost 44% of  mushrooms have no odor, but:
 
 ![](Images/Mushroom_odor_quantity.PNG)
 
-Almost 96 % of mushrooms with no odor are edible, 100% of mushroom with almond and anise
-odor are also edible. All mushrooms with foul, fishy, spicy, pungent, creosote or musty odor are
+Almost 96 % of mushrooms with no odor are edible, 100% of mushrooms with almond and anise
+odor are also edible. All mushrooms with foul, fishy, spicy, pungent, creosote, or musty odor are
 poisonous.
 
 ![](Images/Edible_poisonous_mushroom_odor.PNG)
@@ -78,7 +79,7 @@ and at the end numerous (4,9%), abundant ( 4,7% ), clustered (4,2%).
 
 ![](Images/Mushroom_population_type.PNG)
 
-A certain percentage of 4 mushroom population type is poisonous:
+A certain percentage of 4 mushroom population types is poisonous:
     • 35% mushrooms in several population type
     •  8% of solitary population type
     • 4,5 % of scattered population type
@@ -93,37 +94,37 @@ A certain percentage of 4 mushroom population type is poisonous:
 
 ![](Images/Correlation_matrix.PNG)
 
-Attributes which have strong positive correlation with classes (coef>0,5) are:
+Attributes that have a strong positive correlation with classes (coef>0,5) are:
 *gill size and color (Pearson coefficient=0.54).* 
 Attributes with weak positive correlation(0<coef<0.5 ):
-*cap color, gill attachment, stalk root, stalk color above ring, stalk color below ring,
+*cap color, gill attachment, stalk root, stalk color above the ring, stalk color below the ring,
 ring number, ring type.* 
 Attributes with strong negative correlation(-1<coef<-0.5 ): *bruises.* 
 Attributes with weak negative correlation(-0,5<coef<0 ): *cap shape, cap surface,
-odor, gill spacing, stalk shape, stalk surface above ring, stalk surface below ring,
+odor, gill spacing, stalk shape, stalk surface above the ring, stalk surface below the ring,
 veil color, spore print color, population, habitat.*
 </details>   
 
 <details>
 
-<summary>**Build model and check accuracy scores**</summary>
-Decision tree classifier was built and trained. Accuracy score was calculated on predictions made
-on a test subset. Accuracy of a model was 0.992%.  Classification report was generated.
+<summary>**Build the model and check accuracy scores**</summary>
+A decision tree classifier was built and trained. Accuracy score was calculated on predictions made
+on a test subset. The accuracy of a model was 0.992%.  A classification report was generated.
 
 ![](Images/dt_classrep.PNG)
 
-To compare results with metrics from roc auc score, those metric has been calculated
+To compare results with metrics from ROC AUC score, those metric has been calculated
 and roc curve plotted.
 
 ![](Images/dt_no_tun_roccurve.png)
 
-To check if model is not overfitting, learning curves were investigated.
+To check if the model is not overfitting, learning curves were investigated.
 
 ![](Images/dt_no_tun_learningcurve.png)
 
 The same process was conducted after hyperparameters tuning.
-Accuracy score for decision tree with  tuning does not change. 
-The same for roc curve and learning curves.
+The accuracy score for the decision tree with tuning does not change. 
+The same for the ROC curve and learning curves.
 </details>
 
  
