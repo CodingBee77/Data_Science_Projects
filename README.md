@@ -49,6 +49,9 @@ Examine feature importance for different algorithms.
 ![](Ensemble_learning_with_mushroom_dataset/Images/Feature_imp_random_forest.PNG)
 
 
+Second notebook contains "Ensemble_learning_mushroom_class_pyforest" tests for
+importing ml&data science modules using pyforest library.
+
 
 
  5. Classification problem with different accuracy metrics
